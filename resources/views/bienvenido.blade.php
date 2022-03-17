@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../images/favicon.ico" type="image/x-icon">
     <!-- Stylesheets-->
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7COpen+Sans:300,300italic,400,600,700,900">
     <link rel="stylesheet" href="../css/style.css">
@@ -94,8 +94,8 @@
                   <div class="cell-md-12 cell-sm-4 offset-top-40 offset-sm-top-0 offset-md-top-80">
                     <div class="inset-xl-left-40">
                       <h4>contacts</h4>
-                      <div class="offset-top-20 offset-md-top-40"><span class="text-middle icon icon-xs text-primary inset-right-10 material-icons-phonelink_ring"></span><a class="extra-big" href="tel:#">+1 800 559 35 48</a></div>
-                      <div class="offset-top-10"><span class="text-middle icon icon-xs text-primary inset-right-10 material-icons-email"></span><a class="big" href="mailto:#">info@demolink.org</a></div>
+                      <div class="offset-top-20 offset-md-top-40" href="../fonts/material-icons-phonelink_ring"><span class="text-middle icon icon-xs text-primary inset-right-10 material-icons-phonelink_ring"></span><a class="extra-big" href="tel:#">+1 800 559 35 48</a></div>
+                      <div class="offset-top-10 " href="../fonts/material-icons-email"><span class="text-middle icon icon-xs text-primary inset-right-10 material-icons-email"></span><a class="big" href="mailto:#">info@demolink.org</a></div>
                     </div>
                   </div>
                   <div class="cell-md-12 cell-sm-4 offset-top-40 offset-sm-top-0 offset-md-top-80">
