@@ -10,6 +10,7 @@
         "production": "mix --production"
     },
     "devDependencies": {
+        "@babel/preset-react": "^7.16.7",
         "@popperjs/core": "^2.10.2",
         "autoprefixer": "^10.4.2",
         "axios": "^0.21",
