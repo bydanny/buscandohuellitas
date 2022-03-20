@@ -1,0 +1,723 @@
+﻿primary breed,secondary breed,mixed,primary color,secondary color,age,gender,size,coat,spayed_neutered,house_trained,special_needs,shots_current,children,dogs,cats,tags,name,status,status_changed_at,published_at
+Terrier,Pug,True,Brindle,Brown / Chocolate,Young,Male,Small,Short,True,True,False,True,None,True,None,[],Ruff,adopted,16/08/2020 18:21,21/07/2020 20:52
+German Shepherd Dog,None,True,Black,Yellow / Tan / Blond / Fawn,Adult,Female,Medium,Medium,True,False,False,True,None,None,None,[],Delilah,adopted,31/07/2020 01:39,21/07/2020 13:17
+Dogue de Bordeaux,Mixed Breed,True,Red / Chestnut / Orange,None,Adult,Male,Extra Large,None,True,False,False,True,None,None,None,"['Does well in the car', 'Food Motivated', 'House Trained', 'Moderate Energy', 'Needs Training', 'No Cats', 'Owner Experience', 'Shy timid']",Red,adoptable,21/07/2020 14:00,21/07/2020 14:00
+Labrador Retriever,Black Mouth Cur,True,None,None,Young,Male,Medium,None,True,True,False,True,True,True,True,[],Louie,adopted,26/07/2020 15:50,21/07/2020 20:05
+Border Collie,None,True,None,None,Adult,Male,Medium,Long,True,True,False,True,None,None,None,[],Kenny,adopted,23/07/2020 16:00,21/07/2020 17:17
+Labrador Retriever,None,True,Black,None,Senior,Male,Large,Medium,True,True,False,True,True,True,True,[],Stormy,adopted,02/08/2020 21:26,21/07/2020 12:49
+Mixed Breed,None,False,Black,White / Cream,Adult,Female,Medium,None,False,False,False,True,None,None,None,[],Copper,adoptable,21/07/2020 15:35,21/07/2020 15:35
+Australian Shepherd,None,True,None,None,Adult,Male,Large,None,True,True,False,True,None,True,False,[],Christian,adopted,21/07/2020 12:53,21/07/2020 12:53
+Chihuahua,None,True,None,None,Adult,Male,Small,None,True,True,False,True,True,True,None,[],Jasper,adopted,24/07/2020 16:36,21/07/2020 15:27
+Terrier,Mixed Breed,True,None,None,Adult,Female,Small,None,True,False,False,False,None,None,None,[],Wendy Peffercorn,adoptable,21/07/2020 15:06,21/07/2020 15:06
+Labrador Retriever,None,True,Black,None,Young,Female,Medium,Short,True,True,False,True,False,False,None,"['shy', 'sweet']",Cricket,adopted,26/07/2020 16:40,21/07/2020 18:01
+German Shepherd Dog,None,True,None,None,Adult,Male,Medium,None,False,False,False,False,None,None,None,[],Chase,adoptable,21/07/2020 20:15,21/07/2020 20:15
+Plott Hound,Black and Tan Coonhound,True,None,None,Young,Female,Medium,None,True,False,False,True,None,True,None,[],Maggie,adoptable,13/08/2020 19:08,21/07/2020 19:48
+Terrier,None,True,Black,White / Cream,Young,Female,Medium,Short,True,True,False,True,True,True,None,[],Spotiana,adopted,29/07/2020 19:00,21/07/2020 19:53
+American Bulldog,None,False,Golden,White / Cream,Young,Female,Large,Short,True,True,False,True,True,True,True,[],Daisy Mea,adopted,08/08/2020 15:25,21/07/2020 20:22
+German Shepherd Dog,Labrador Retriever,True,None,None,Adult,Male,Large,None,True,False,False,False,True,None,None,[],Rufus,adopted,03/08/2020 12:45,21/07/2020 17:14
+Mixed Breed,None,False,Bicolor,None,Adult,Female,Medium,None,True,False,False,True,None,None,None,[],Tia,adopted,22/07/2020 11:23,21/07/2020 12:31
+Terrier,None,True,Brindle,White / Cream,Young,Male,Small,Short,True,False,False,True,True,None,None,[],Flounder,adopted,26/07/2020 04:09,21/07/2020 13:35
+Schipperke,Staffordshire Bull Terrier,True,Black,White / Cream,Young,Female,Medium,Short,True,False,False,True,None,None,True,[],Paris,adopted,09/08/2020 14:18,21/07/2020 15:54
+Labrador Retriever,None,True,Yellow / Tan / Blond / Fawn,None,Young,Male,Large,Short,True,False,False,False,None,None,None,[],Zeke,adopted,28/07/2020 19:56,21/07/2020 17:45
+German Shepherd Dog,Australian Shepherd,True,Black,Yellow / Tan / Blond / Fawn,Adult,Male,Medium,Short,True,False,False,True,None,True,None,[],RONIN,adopted,24/07/2020 13:44,21/07/2020 20:23
+Terrier,None,True,None,None,Young,Male,Small,None,False,False,False,False,None,None,None,[],Stevie,adopted,21/07/2020 20:32,21/07/2020 20:32
+Terrier,None,False,Brindle,White / Cream,Adult,Male,Medium,None,True,False,False,True,None,None,None,"['Good with Kids', 'Good with People']",Stormy,adoptable,21/07/2020 19:55,21/07/2020 19:55
+Poodle,Bichon Frise,True,None,None,Young,Female,Small,None,True,True,False,True,True,True,None,[],Lille,adopted,21/07/2020 17:13,21/07/2020 17:13
+Pit Bull Terrier,None,False,None,None,Young,Male,Large,None,True,False,False,False,None,None,None,[],MURRAY,adoptable,21/07/2020 13:50,21/07/2020 13:50
+Labrador Retriever,None,True,None,None,Baby,Female,Large,Short,False,False,False,True,True,True,True,[],Nadine,adopted,29/07/2020 22:51,21/07/2020 17:31
+Labrador Retriever,Redbone Coonhound,True,Black,Red / Chestnut / Orange,Baby,Female,Medium,Short,True,False,False,True,True,True,True,[],Penelope- Sweet Puppy Breath,adopted,25/07/2020 17:54,21/07/2020 19:18
+Bloodhound,Shepherd,True,None,None,Adult,Female,Large,None,True,True,False,True,True,True,None,[],Sunny,adopted,25/07/2020 14:38,21/07/2020 15:11
+Husky,Hound,True,None,None,Adult,Female,Medium,None,True,True,False,True,True,True,None,[],Mia (husky),adopted,21/07/2020 11:20,21/07/2020 11:20
+Dachshund,None,False,None,None,Young,Male,Medium,None,False,False,False,False,None,None,None,[],Mike,adopted,21/07/2020 20:15,21/07/2020 20:15
+Mixed Breed,None,False,Apricot / Beige,White / Cream,Adult,Female,Large,Short,True,False,False,True,None,None,None,[],Raina,adoptable,21/07/2020 15:12,21/07/2020 15:12
+Pit Bull Terrier,None,True,Merle (Red),White / Cream,Adult,Female,Large,Short,True,True,False,True,None,True,None,"['laidback', 'loving', 'sweet']",Piglet,adopted,24/07/2020 19:26,21/07/2020 13:16
+Mixed Breed,None,False,Brindle,None,Adult,Female,Large,Short,True,False,False,True,None,None,None,[],Chloe,adoptable,21/07/2020 15:25,21/07/2020 15:25
+Retriever,None,True,Black,None,Baby,Male,Medium,Short,True,False,False,True,None,True,None,[],Madness,adopted,23/07/2020 20:31,21/07/2020 18:13
+Labrador Retriever,Redbone Coonhound,True,Black,Red / Chestnut / Orange,Baby,Male,Medium,Short,True,False,False,True,True,True,True,[],Hotch - Sweet Puppy Breath,adopted,25/07/2020 17:54,21/07/2020 18:39
+Shepherd,Pit Bull Terrier,True,Black,White / Cream,Baby,Male,Medium,Short,True,False,False,True,None,True,None,[],Arlo,adoptable,21/07/2020 17:59,21/07/2020 17:59
+Shepherd,None,True,None,None,Baby,Female,Large,None,False,False,False,True,True,True,None,[],Dora,adopted,21/07/2020 11:05,21/07/2020 11:05
+Pit Bull Terrier,American Bulldog,True,Black,None,Adult,Male,Large,Short,True,True,False,True,None,None,None,[],Bernie,adoptable,21/07/2020 20:45,21/07/2020 20:45
+Mastiff,Shepherd,True,Bicolor,Black,Adult,Male,Large,Medium,True,False,False,True,None,True,None,"['Playful', 'loving']",Yogi,adoptable,10/08/2020 12:31,21/07/2020 15:08
+Schnauzer,None,False,None,None,Adult,Male,Small,None,True,True,False,True,None,None,None,[],Gus,adoptable,19/08/2020 17:00,21/07/2020 19:57
+Mixed Breed,None,False,White / Cream,Brindle,Baby,Male,Large,Short,True,False,False,True,True,True,None,[],Buddy,adopted,06/08/2020 01:47,21/07/2020 18:10
+Australian Cattle Dog / Blue Heeler,None,True,Tricolor (Brown, & White),Baby,Female,Medium,Short,True,True,False,True,True,True,True,[],Nizhoni,adopted,30/07/2020 17:20,21/07/2020 12:18
+Saint Bernard,None,False,None, ,Adult,Male,Large,None,False,False,False,False,None,None,None,[],Moose - Application Pending,adoptable,29/07/2020 16:27,21/07/2020 13:57
+Shepherd,None,True,Brown / Chocolate, ,Baby,Female,Small,Short,False,False,False,True,True,True,None,[],Olive,adopted,15/08/2020 16:27,21/07/2020 20:33
+Retriever,Setter,True,Tricolor (Brown, & White),Adult,Male,Medium,Short,True,True,False,True,True,True,False,"['playful', 'friendly', 'cuddly']",Buddy,adopted,01/08/2020 10:13,21/07/2020 18:46
+Collie,None,True,None, ,Baby,Male,Medium,None,True,False,False,True,True,True,True,[],Quiet Riot,adopted,21/07/2020 17:12,21/07/2020 17:12
+Basset Hound,Labrador Retriever,True,Black, ,Baby,Male,Medium,Short,False,False,False,True,None,None,None,[],Rainier,adopted,30/07/2020 14:27,23/07/2020 18:00
+Mixed Breed,None,False,None, ,Adult,Female,Medium,Short,True,False,False,True,None,None,None,[],Lenny,adoptable,21/07/2020 15:46,21/07/2020 15:46
+Belgian Shepherd / Malinois,None,False,None, ,Adult,Male,Medium,None,True,False,False,True,None,None,None,[],Roscoe,adopted,31/07/2020 13:31,21/07/2020 18:27
+Pyrenean Shepherd,None,True,None, ,Baby,Female,Medium,None,True,False,False,True,None,True,None,[],Penelope,adopted,24/07/2020 01:23,21/07/2020 20:59
+Labrador Retriever,None,True,Brown / Chocolate, ,Baby,Female,Medium,Short,False,False,False,True,None,True,None,"['loving', 'playful', 'puppy']",Laurel,adopted,31/07/2020 23:43,21/07/2020 16:55
+Beagle,Chihuahua,True,Yellow / Tan / Blond / Fawn, ,Adult,Male,Small,Short,True,False,False,True,True,True,None,[],Buddy-PENDING,adopted,29/07/2020 00:20,21/07/2020 18:12
+Boxer,Shepherd,True,Yellow / Tan / Blond / Fawn, ,Baby,Male,Large,Short,True,False,False,True,None,None,None,[],Stout,adopted,22/07/2020 17:03,21/07/2020 20:40
+Mixed Breed,Labrador Retriever,True,Black, ,Senior,Male,Large,None,True,True,False,True,None,None,None,[],Buddy,adoptable,21/07/2020 12:48,21/07/2020 12:48
+Dachshund,Chihuahua,True,Red / Chestnut / Orange, ,Adult,Male,Small,Short,True,True,False,True,None,True,None,[],Rudy,adopted,15/08/2020 17:37,21/07/2020 17:13
+Labrador Retriever,Boxer,True,Black, ,Senior,Male,Large,Medium,True,False,False,True,None,None,None,[],17786009 / Jake,adopted,28/07/2020 21:35,21/07/2020 19:20
+Golden Retriever,None,True,Golden, ,Senior,Male,Medium,Short,True,False,False,True,True,True,None,[],Jackson,adoptable,21/07/2020 14:49,21/07/2020 14:49
+Chow Chow,None,True,Red / Chestnut / Orange, ,Baby,Male,Medium,Short,True,False,False,True,None,None,None,[],BANKSY,adopted,01/08/2020 01:04,21/07/2020 20:33
+Pomeranian,None,True,Gray / Blue / Silver, ,Adult,Female,Small,Medium,True,True,False,True,None,True,None,[],SASHA,adopted,26/07/2020 19:51,21/07/2020 20:34
+Terrier,Collie,True,None, ,Baby,Female,Medium,Medium,False,False,False,False,None,None,None,[],Dakota~Adopted!!,adoptable,21/07/2020 15:04,21/07/2020 15:04
+Hound,Terrier,True,Tricolor (Brown, & White),Adult,Female,Medium,Short,True,False,False,True,None,True,True,[],Reagan,adopted,24/07/2020 15:29,21/07/2020 17:53
+Australian Shepherd,Shepherd,True,None, ,Baby,Female,Large,None,True,False,False,True,True,True,True,[],Aussie/Shep Mix F#1,adopted,22/07/2020 16:46,21/07/2020 15:23
+Chihuahua,None,True,White / Cream, ,Baby,Female,Small,Short,True,False,False,True,True,True,None,[],Honey,adopted,25/07/2020 19:32,21/07/2020 17:08
+Pit Bull Terrier,Black Labrador Retriever,True,Tricolor (Brown, & White),Young,Female,Medium,Short,True,True,False,True,True,True,True,[],Baby,adopted,24/07/2020 20:54,21/07/2020 20:43
+Chow Chow,Australian Cattle Dog / Blue Heeler,True,Brown / Chocolate, ,Adult,Male,Medium,None,True,False,False,True,None,None,None,[],Koda,adopted,26/07/2020 23:48,21/07/2020 17:38
+Mixed Breed,None,True,Brindle, ,Adult,Male,Medium,Short,True,True,False,True,False,True,True,[],Tank **READ ENTIRE DESCRIPTION**,adoptable,21/07/2020 17:28,21/07/2020 17:28
+German Shepherd Dog,Black Mouth Cur,True,None, ,Young,Male,Medium,None,True,True,False,True,True,True,True,[],Huey,adopted,10/08/2020 20:25,21/07/2020 14:50
+Shepherd,None,True,Bicolor, ,Adult,Female,Medium,Long,True,False,False,True,None,True,None,[],Annie,adopted,22/07/2020 20:57,21/07/2020 20:52
+Beagle,None,False,Black, ,Adult,Male,Medium,Short,False,False,False,True,None,None,None,"['loving', 'Friendly', 'Affectionate']",Willie,adopted,22/07/2020 12:46,21/07/2020 15:35
+Shih Tzu,None,False,Black, ,Adult,Male,Small,Short,True,False,False,True,True,None,None,"['Loving', 'Fun', 'Cuddly', 'Adorable']",Herbert,adopted,17/08/2020 06:14,21/07/2020 18:59
+Chihuahua,None,False,None, ,Adult,Female,Small,None,False,False,False,False,None,None,None,[],Croissant - Application Pending,adopted,27/07/2020 16:57,22/07/2020 17:36
+Treeing Walker Coonhound,Mixed Breed,True,None, ,Young,Female,Medium,Short,True,False,False,True,None,True,None,[],Suzie,adoptable,21/07/2020 17:57,21/07/2020 17:57
+Shih Tzu,Poodle,True,None, ,Baby,Female,Small,None,True,False,False,True,None,True,True,[],Poppy,adopted,26/07/2020 00:15,21/07/2020 15:24
+Chihuahua,None,False,None, ,Adult,Male,Small,None,True,True,False,True,True,True,None,[],Pooh Bear,adopted,21/07/2020 14:57,21/07/2020 14:57
+Pomeranian,None,False,None, ,Adult,Male,Small,None,False,False,False,False,None,None,None,[],Popcorn,adopted,30/07/2020 18:37,22/07/2020 18:36
+Labrador Retriever,None,False,Black, ,Baby,Female,Medium,Short,True,False,False,True,True,True,True,[],Minnie in NH,adopted,24/07/2020 18:11,21/07/2020 15:09
+Pit Bull Terrier,None,True,Black, ,Adult,Female,Medium,Short,True,False,False,True,None,False,False,[],Clover,adoptable,18/08/2020 22:36,21/07/2020 20:55
+German Shepherd Dog,None,False,White / Cream, ,Senior,Female,Medium,Long,True,True,False,True,True,False,False,[],Lily,adoptable,21/07/2020 17:41,21/07/2020 17:41
+Hound,None,True,Brindle, ,Baby,Female,Medium,Short,False,False,False,True,None,True,None,[],Gavel,adopted,14/08/2020 17:41,21/07/2020 15:54
+Siberian Husky,None,True,None, ,Adult,Male,Medium,None,True,True,False,True,None,None,None,[],Dak,adopted,14/08/2020 15:33,21/07/2020 17:38
+Shiba Inu,Pomeranian,True,None, ,Adult,Male,Large,None,True,False,False,False,None,None,None,[],LIL BEX,adoptable,21/07/2020 15:51,21/07/2020 15:51
+Hound,Cattle Dog,True,None, ,Baby,Female,Medium,None,True,False,False,True,True,True,None,[],April,adopted,21/07/2020 13:20,21/07/2020 13:20
+Yorkshire Terrier,Papillon,True,None, ,Senior,Female,Small,None,False,True,False,False,None,True,None,[],Drizzie,adopted,04/08/2020 02:52,21/07/2020 20:15
+Shih Tzu,None,True,None, ,Senior,Male,Small,None,True,True,False,True,True,True,None,[],Senji,adopted,21/07/2020 11:05,21/07/2020 11:05
+Mixed Breed,None,False,Apricot / Beige, ,Baby,Male,Medium,Short,True,False,False,True,True,True,None,[],Frazier,adopted,29/07/2020 18:09,21/07/2020 18:01
+Yorkshire Terrier,None,True,None, ,Adult,Male,Small,None,True,True,False,True,None,None,None,[],Sinjin,adopted,21/07/2020 20:33,21/07/2020 20:33
+German Shepherd Dog,None,False,Black, ,Young,Female,Large,Medium,True,False,False,True,None,None,None,"['stunning new girl', 'bio in the editing room', 'fostered']",*Louise von Lemgo,adoptable,21/07/2020 19:35,21/07/2020 19:35
+Labrador Retriever,Hound,True,None, ,Senior,Male,Large,None,True,False,False,True,True,True,True,[],Elvis *LOCAL*,adopted,21/07/2020 13:08,21/07/2020 13:08
+Redbone Coonhound,Labrador Retriever,True,Black, ,Baby,Female,Medium,Short,True,False,False,True,True,True,True,[],Redbone Hound Mix Puppies-PENDING,adopted,25/07/2020 11:54,21/07/2020 18:21
+Collie,Retriever,True,None, ,Young,Male,Medium,None,False,True,False,False,None,True,False,[],Tucker,adopted,27/07/2020 16:23,21/07/2020 15:23
+Border Collie,Spaniel,True,None, ,Adult,Female,Medium,Medium,True,True,False,True,True,True,False,[],Lily,adopted,26/07/2020 14:57,21/07/2020 13:57
+Terrier,None,True,Apricot / Beige, ,Young,Male,Medium,Short,True,False,False,True,False,True,False,[],Vinny,adoptable,21/07/2020 20:24,21/07/2020 20:24
+Terrier,None,True,Apricot / Beige, ,Baby,Female,Medium,Short,True,False,False,True,True,True,None,[],Ivy,adopted,30/07/2020 14:48,21/07/2020 14:57
+American Bulldog,English Bulldog,True,None, ,Baby,Male,Medium,None,True,False,False,True,True,True,True,[],Ranger *LOCAL*,adopted,21/07/2020 13:08,21/07/2020 13:08
+Border Collie,Labrador Retriever,True,None, ,Adult,Male,Medium,None,False,False,False,False,None,None,None,[],Dante,adopted,30/07/2020 16:57,21/07/2020 17:21
+Pyrenean Shepherd,Labrador Retriever,True,White / Cream, ,Baby,Female,Extra Large,Medium,True,False,False,True,True,True,True,"['loving', 'velcro', 'attentive']",Belle,adopted,27/07/2020 15:28,21/07/2020 14:52
+Pit Bull Terrier,None,True,Yellow / Tan / Blond / Fawn, ,Adult,Female,Medium,None,True,False,False,True,None,None,None,[],Luna,adoptable,21/07/2020 19:50,21/07/2020 19:50
+Labrador Retriever,None,False,Yellow / Tan / Blond / Fawn, ,Young,Female,Large,Short,False,False,False,False,None,None,None,[],Glory,adopted,27/07/2020 11:38,21/07/2020 12:57
+Shih Tzu,None,True,None, ,Senior,Male,Small,None,True,True,False,True,True,True,None,[],Sampson,adopted,21/07/2020 11:05,21/07/2020 11:05
+Doberman Pinscher,None,False,Brown / Chocolate, ,Young,Female,Medium,Short,True,True,False,True,True,True,True,[],Izzy,adopted,24/07/2020 22:30,21/07/2020 20:41
+Australian Shepherd,None,True,Merle (Red), ,Baby,Male,Medium,Short,True,False,False,True,None,None,None,[],Gueuze,adopted,22/07/2020 12:51,21/07/2020 20:48
+Chihuahua,None,False,Yellow / Tan / Blond / Fawn, ,Adult,Female,Small,Short,True,False,False,True,None,True,None,[],Taffy,adopted,27/07/2020 04:08,21/07/2020 20:18
+Terrier,None,False,Black, ,Young,Male,Small,None,True,False,False,True,None,None,None,[],Scout,adoptable,21/07/2020 15:20,21/07/2020 15:20
+Beagle,Terrier,True,None, ,Young,Female,Medium,None,False,False,False,False,True,True,True,[],Laverne,adopted,21/07/2020 18:56,21/07/2020 18:56
+Hound,Cattle Dog,True,None, ,Baby,Female,Medium,None,True,False,False,True,True,True,None,[],Aspen,adopted,21/07/2020 13:20,21/07/2020 13:20
+Shih Tzu,None,False,Gray / Blue / Silver, ,Senior,Female,Small,None,True,True,False,True,True,True,True,[],Mollie,adopted,23/07/2020 18:59,21/07/2020 18:02
+Rottweiler,Mastiff,True,None, ,Adult,Male,Extra Large,None,True,True,False,True,False,False,False,[],Hooch 125.00 sponsored,adoptable,21/07/2020 10:25,21/07/2020 10:25
+Collie,Great Pyrenees,True,None, ,Baby,Female,Large,None,True,True,False,True,False,True,True,[],Bay Ocean *LOCAL*,adoptable,21/07/2020 14:56,21/07/2020 14:56
+Cattle Dog,None,True,None, ,Baby,Female,Medium,None,True,False,False,True,True,True,True,[],Cattle Dog Mix F#1,adopted,22/07/2020 16:46,21/07/2020 15:10
+Husky,None,True,None, ,Young,Male,Medium,None,False,False,False,False,None,None,None,[],*Starlord* Puppy,adopted,21/07/2020 19:30,21/07/2020 19:30
+Labrador Retriever,None,True,White / Cream, ,Adult,Female,Medium,Medium,False,False,False,True,None,None,None,[],Nellie,adopted,29/07/2020 13:00,21/07/2020 17:41
+American Staffordshire Terrier,None,True,None, ,Young,Female,Medium,Short,True,True,False,True,None,False,False,['Playful'],Minnie Winnie Wiggles,adoptable,21/07/2020 19:34,21/07/2020 19:34
+Terrier,None,True,Bicolor, ,Baby,Female,Medium,Short,False,False,False,False,True,True,True,[],DELANEY,adopted,28/07/2020 17:12,21/07/2020 17:55
+Yellow Labrador Retriever,None,True,None, ,Baby,Male,Large,None,True,False,False,True,True,True,True,[],Yellow Lab Mix M#1,adopted,22/07/2020 16:46,21/07/2020 15:19
+Mixed Breed,None,True,Black, ,Baby,Female,Medium,Short,False,False,False,True,True,True,True,[],Violet,adopted,25/07/2020 20:06,21/07/2020 20:53
+Collie,None,True,Apricot / Beige, ,Young,Female,Medium,Short,False,True,False,True,True,True,None,[],Jason,adopted,22/07/2020 16:28,21/07/2020 17:18
+American Staffordshire Terrier,Pit Bull Terrier,True,Gray / Blue / Silver, ,Young,Male,Large,Short,False,True,False,False,True,True,None,[],Guppy,adoptable,21/07/2020 19:35,21/07/2020 19:35
+Shepherd,None,False,None, ,Adult,Male,Medium,None,False,False,False,False,None,None,None,[],Trooper,adopted,30/07/2020 16:57,21/07/2020 17:21
+Australian Cattle Dog / Blue Heeler,None,True,Tricolor (Brown, & White),Baby,Male,Medium,Short,False,False,False,True,True,True,True,[],Woodrow,adopted,10/08/2020 15:35,21/07/2020 20:47
+Boxer,None,True,Red / Chestnut / Orange, ,Young,Male,Medium,Short,True,True,False,True,True,True,True,[],"Mac (Great, Calm Family Dog)",adopted,26/07/2020 21:13,21/07/2020 18:25
+Mixed Breed,None,True,None, ,Baby,Female,Medium,Medium,False,False,False,False,None,None,None,[],Shiraz,adopted,31/07/2020 17:43,21/07/2020 20:14
+Shepherd,None,True,Black, ,Baby,Female,Medium,Medium,True,False,False,True,True,True,None,[],Sunflower,adopted,25/07/2020 19:49,21/07/2020 18:15
+Siberian Husky,None,False,None, ,Adult,Female,Medium,None,True,False,False,True,True,True,False,[],Licorice,adoptable,21/07/2020 15:40,21/07/2020 15:40
+Great Pyrenees,None,False,None, ,Adult,Female,Large,None,True,True,False,False,True,True,None,[],Jourdan,adoptable,21/07/2020 12:21,21/07/2020 12:21
+Redbone Coonhound,Mixed Breed,True,None, ,Young,Female,Medium,None,False,False,False,False,None,None,None,[],Rosie,adoptable,21/07/2020 18:06,21/07/2020 18:06
+Chihuahua,None,True,None, ,Young,Male,Medium,None,True,False,False,False,True,True,None,[],Mickey,adopted,25/07/2020 21:56,21/07/2020 20:27
+Pyrenean Shepherd,Labrador Retriever,True,White / Cream, ,Baby,Female,Extra Large,Medium,True,False,False,True,True,True,True,"['loving', 'active', 'playful']",Snow White,adopted,04/08/2020 12:40,21/07/2020 14:50
+Terrier,None,True,Black, ,Baby,Male,Medium,Short,False,False,False,True,None,True,None,[],Rooster,adopted,11/08/2020 14:53,21/07/2020 15:34
+Chihuahua,None,True,Yellow / Tan / Blond / Fawn, ,Adult,Female,Small,None,True,True,False,True,None,None,True,[],Penelope,adopted,15/08/2020 01:31,21/07/2020 20:29
+Australian Cattle Dog / Blue Heeler,None,True,None, ,Baby,Female,Medium,Short,False,False,False,True,True,True,None,[],Gianna,adoptable,10/08/2020 20:11,21/07/2020 17:49
+Catahoula Leopard Dog,Mastiff,True,Merle (Blue), ,Young,Male,Large,Short,True,True,False,True,None,True,False,[],Atlas,adopted,04/08/2020 14:11,21/07/2020 12:43
+Mixed Breed,None,False,Black, ,Young,Female,Large,None,False,False,False,False,None,None,None,[],BD,adoptable,21/07/2020 20:40,21/07/2020 20:40
+Shepherd,Black Mouth Cur,True,None, ,Adult,Female,Medium,None,True,False,False,False,None,None,None,[],Lucky,adoptable,21/07/2020 15:12,21/07/2020 15:12
+Terrier,Chiweenie,True,Apricot / Beige, ,Baby,Male,Small,Wire,True,False,False,True,True,True,None,[],Axel,adopted,25/07/2020 21:19,21/07/2020 19:17
+Australian Cattle Dog / Blue Heeler,Mixed Breed,True,None, ,Young,Female,Medium,None,True,False,False,False,None,None,None,[],DOMINO,adoptable,21/07/2020 17:51,21/07/2020 17:51
+Pit Bull Terrier,None,True,Brindle, ,Baby,Male,Small,Short,True,False,False,True,None,None,None,"['loving', 'playful', 'energy']",Dandy,adopted,24/07/2020 21:13,21/07/2020 14:48
+Hound,None,True,Tricolor (Brown, & White),Baby,Male,Medium,None,True,False,False,True,True,True,None,[],JACK,adoptable,21/07/2020 14:28,21/07/2020 14:28
+Shepherd,None,True,Yellow / Tan / Blond / Fawn, ,Baby,Male,Medium,Medium,True,False,False,True,None,True,None,[],Hachi,adopted,12/08/2020 16:01,21/07/2020 17:50
+Labrador Retriever,None,True,Yellow / Tan / Blond / Fawn, ,Adult,Male,Large,Short,True,True,False,True,None,True,None,[],Kingsley,adoptable,21/07/2020 19:49,21/07/2020 19:49
+Chihuahua,None,True,White / Cream, ,Young,Male,Small,None,False,True,False,False,True,True,True,[],CHARLIE,adopted,25/07/2020 23:34,21/07/2020 15:44
+Husky,Shepherd,True,None, ,Young,Female,Medium,None,True,True,False,True,True,True,None,[],Rockin Robin,adopted,21/07/2020 17:12,21/07/2020 17:12
+Terrier,None,True,Gray / Blue / Silver, ,Baby,Female,Small,Short,False,False,False,False,True,True,True,[],MILLIE,adopted,22/07/2020 13:43,21/07/2020 17:39
+Cocker Spaniel,None,True,Golden, ,Senior,Female,Medium,None,True,True,False,True,True,True,None,"['Mellow', 'Sweet', 'Senior']",Rusty,adopted,02/08/2020 21:26,21/07/2020 12:33
+Hound,None,False,None, ,Adult,Male,Medium,None,True,False,False,False,None,None,None,[],2007-1570 Anderson,adopted,22/07/2020 22:57,21/07/2020 13:41
+Australian Cattle Dog / Blue Heeler,None,True,Black, ,Baby,Female,Medium,Short,False,False,False,True,True,True,True,[],Willow,adopted,22/07/2020 17:02,21/07/2020 20:29
+Labrador Retriever,Redbone Coonhound,True,Black, ,Baby,Female,Medium,Medium,True,False,False,True,True,True,True,[],Prentiss - Sweet Puppy Breath,adopted,25/07/2020 17:54,21/07/2020 19:12
+Husky,Labrador Retriever,True,None, ,Young,Male,Large,None,True,True,False,True,True,True,None,[],Kolbi,adopted,21/07/2020 11:05,21/07/2020 11:05
+Rottweiler,Labrador Retriever,True,None, ,Baby,Male,Large,Medium,False,False,False,True,True,True,True,[],Rottweiler/Lab/Pit Pups,adopted,26/07/2020 19:09,21/07/2020 14:11
+Shepherd,None,True,Black, ,Baby,Female,Medium,Short,True,False,False,True,True,True,True,[],Kelsey,adopted,21/07/2020 21:45,21/07/2020 14:33
+Husky,None,True,White / Cream, ,Adult,Male,Medium,Long,True,False,False,False,None,None,None,[],Whitecap,adopted,27/07/2020 04:06,21/07/2020 18:43
+Pug,Spitz,True,White / Cream, ,Senior,Male,Medium,None,True,True,True,True,False,True,True,[],Donovan,adoptable,21/07/2020 13:45,21/07/2020 13:45
+Dachshund,Terrier,True,None, ,Young,Male,Medium,None,False,False,False,True,None,None,None,[],* Franklin - Pending,adoptable,21/07/2020 10:35,21/07/2020 10:35
+Husky,None,True,None, ,Young,Male,Medium,None,False,False,False,False,None,None,None,[],Otter,adopted,21/07/2020 20:15,21/07/2020 20:15
+Siberian Husky,None,True,Brown / Chocolate, ,Young,Female,Medium,Medium,True,True,False,True,True,True,None,[],Lexie,adopted,23/07/2020 14:11,21/07/2020 18:02
+Mixed Breed,None,False,None, ,Adult,Male,Large,None,True,False,False,False,None,None,None,[],Clint,adoptable,21/07/2020 20:06,21/07/2020 20:06
+Husky,None,True,None, ,Adult,Male,Large,None,True,True,False,True,True,True,None,[],Zeus the Deuce,adopted,21/07/2020 11:20,21/07/2020 11:20
+Husky,Shepherd,True,None, ,Young,Female,Medium,Short,False,False,False,False,True,True,None,[],Nikita,adoptable,21/07/2020 15:21,21/07/2020 15:21
+Dachshund,Pit Bull Terrier,True,None, ,Young,Male,Medium,None,False,False,False,False,None,None,None,[],Dash,adopted,21/07/2020 20:32,21/07/2020 20:32
+Boxer,Pit Bull Terrier,True,White / Cream, ,Adult,Male,Medium,None,True,False,False,True,None,None,None,['Fence Jumper'],Glacier,adoptable,21/07/2020 15:15,21/07/2020 15:15
+Chow Chow,Golden Retriever,True,Golden, ,Adult,Female,Medium,Medium,True,True,True,True,False,True,True,['Friendly'],Goldilocks,adopted,01/08/2020 22:29,21/07/2020 18:50
+Mastiff,Staffordshire Bull Terrier,True,Brindle, ,Young,Male,Large,Short,True,False,False,True,False,False,False,[],Brisket,adoptable,22/07/2020 02:09,22/07/2020 02:09
+German Shepherd Dog,None,False,Bicolor, ,Adult,Female,Large,Medium,True,True,False,True,True,True,None,[],Sky,adopted,12/08/2020 21:06,21/07/2020 20:18
+Chihuahua,None,True,None, ,Young,Male,Small,None,True,False,False,True,None,True,None,[],Grunt,adopted,29/07/2020 18:54,21/07/2020 12:54
+Pit Bull Terrier,English Bulldog,True,White / Cream, ,Young,Female,Medium,None,True,False,False,True,None,None,None,['Heartworm Positive'],Ensley,adoptable,21/07/2020 19:45,21/07/2020 19:45
+Collie,Retriever,True,None, ,Adult,Male,Medium,None,True,True,False,False,None,True,True,[],Banjo,adopted,11/08/2020 00:13,21/07/2020 15:38
+Labrador Retriever,Bloodhound,True,White / Cream, ,Young,Female,Medium,None,True,True,False,True,True,True,None,[],Honey,adopted,23/07/2020 02:24,21/07/2020 19:47
+Dachshund,None,True,Yellow / Tan / Blond / Fawn, ,Baby,Male,Small,None,False,False,False,True,True,True,None,[],Dinky,adopted,29/07/2020 00:36,21/07/2020 18:29
+Labrador Retriever,None,True,Black, ,Baby,Female,Medium,Short,False,False,False,True,None,True,None,[],Cyclone,adopted,06/08/2020 02:03,21/07/2020 17:09
+Shepherd,Husky,True,None, ,Adult,Female,Large,None,True,True,False,False,True,True,None,[],Laney,adopted,21/07/2020 15:27,21/07/2020 15:27
+Australian Shepherd,None,True,Merle (Blue), ,Adult,Male,Medium,None,True,False,False,True,None,None,None,[],Indy,adopted,25/07/2020 14:32,21/07/2020 19:07
+Basenji,Lancashire Heeler,True,None, ,Adult,Male,Medium,None,True,True,False,True,None,True,True,[],Nemo,adoptable,21/07/2020 18:35,21/07/2020 18:35
+Pug,None,False,Yellow / Tan / Blond / Fawn, ,Senior,Female,Medium,Medium,True,True,False,True,True,True,True,[],Beanie,adoptable,21/07/2020 20:24,21/07/2020 20:24
+Australian Cattle Dog / Blue Heeler,Mixed Breed,True,Bicolor, ,Baby,Male,Medium,Short,False,False,False,True,True,True,True,[],Wesley,adopted,01/08/2020 17:29,21/07/2020 20:03
+Black Mouth Cur,Mixed Breed,True,None, ,Young,Male,Large,None,False,False,False,False,None,None,None,[],Scout,adoptable,21/07/2020 19:06,21/07/2020 19:06
+Beagle,None,True,None, ,Senior,Male,Medium,None,True,False,False,False,None,True,None,[],Thunderbolt,adoptable,21/07/2020 18:10,21/07/2020 18:10
+Hound,None,True,White / Cream, ,Young,Male,Medium,Short,True,False,False,True,None,None,None,[],Cleveland,adopted,26/07/2020 18:40,21/07/2020 20:56
+German Shepherd Dog,None,False,White / Cream, ,Young,Female,Large,Medium,True,False,False,True,None,None,False,"['new pretty youngster', 'stay tuned for bio', 'no cats']",*Savannah von Sandau,adopted,27/07/2020 18:06,21/07/2020 19:28
+Boxer,None,True,Black, ,Young,Female,Medium,Short,True,False,False,True,None,None,None,[],Wave,adopted,26/07/2020 00:00,21/07/2020 18:41
+Great Pyrenees,None,True,None, ,Baby,Male,Large,None,False,False,False,False,True,True,True,"['playful', 'active', 'loving']",Amaretto,adopted,24/07/2020 01:24,21/07/2020 18:10
+Basset Hound,None,True,Bicolor, ,Adult,Male,Medium,Short,True,False,False,True,True,True,True,[],Eeyore,adopted,27/07/2020 13:25,21/07/2020 18:47
+Golden Retriever,None,False,Golden, ,Young,Male,Large,Medium,True,True,False,True,False,True,True,[],Arlo **READ ENTRE DESCRIPTION**,adoptable,21/07/2020 18:04,21/07/2020 18:04
+American Staffordshire Terrier,None,True,None, ,Baby,Female,Large,None,True,False,False,False,True,True,False,[],Darcy,adopted,21/07/2020 12:09,21/07/2020 12:09
+Border Collie,None,True,Black, ,Baby,Female,Large,Medium,True,False,False,True,True,True,None,[],Aster,adopted,28/07/2020 14:53,21/07/2020 19:57
+German Shepherd Dog,None,False,Black, ,Adult,Male,Large,Medium,True,True,False,True,None,None,False,[],Buddy,adoptable,21/07/2020 18:09,21/07/2020 18:09
+Shih Tzu,Lhasa Apso,True,Apricot / Beige, ,Adult,Male,Small,Medium,True,True,False,True,None,True,None,[],Albert,adopted,21/07/2020 13:34,21/07/2020 11:42
+Basset Hound,None,False,None, ,Senior,Male,Medium,None,False,False,False,True,None,True,True,[],Mojo,adopted,25/07/2020 01:00,21/07/2020 18:44
+Collie,None,True,None, ,Adult,Female,Medium,None,True,True,False,True,True,True,None,[],NicNic,adopted,21/07/2020 17:12,21/07/2020 17:12
+Labrador Retriever,Anatolian Shepherd,True,White / Cream, ,Young,Male,Medium,Short,True,True,False,True,True,True,True,[],Noah,adopted,10/08/2020 14:18,21/07/2020 15:49
+Pit Bull Terrier,None,False,Black, ,Adult,Female,Large,Short,True,False,False,True,None,None,False,[],Nyssa,adoptable,21/07/2020 15:06,21/07/2020 15:06
+Labrador Retriever,None,True,None, ,Young,Male,Medium,None,True,True,False,True,True,True,True,[],Forrest,adopted,31/07/2020 18:56,21/07/2020 20:42
+Labrador Retriever,None,True,None, ,Adult,Female,Large,None,True,True,False,False,True,False,False,[],Aubry,adoptable,21/07/2020 15:12,21/07/2020 15:12
+Mastiff,None,True,None, ,Adult,Female,Extra Large,None,True,False,False,False,False,False,False,[],Moonie & Sara (bonded pair),adoptable,21/07/2020 15:46,21/07/2020 15:46
+Airedale Terrier,Rottweiler,True,None, ,Adult,Male,Large,None,False,True,False,False,None,None,None,[],Koda,adoptable,21/07/2020 14:50,21/07/2020 14:50
+Terrier,None,False,Black, ,Young,Male,Small,None,False,False,False,False,None,None,None,[],Sam,adopted,30/07/2020 16:56,21/07/2020 19:10
+Yorkshire Terrier,None,False,None, ,Senior,Female,Small,None,True,False,False,True,None,True,None,[],Mimi,adoptable,21/07/2020 15:29,21/07/2020 15:29
+Rottweiler,None,False,Black, ,Adult,Female,Medium,Medium,True,True,False,True,True,True,True,[],Reba,adoptable,21/07/2020 14:07,21/07/2020 14:07
+Labrador Retriever,Rhodesian Ridgeback,True,Red / Chestnut / Orange, ,Baby,Male,Medium,Short,True,False,False,True,True,True,True,[],Rusty,adopted,25/07/2020 19:20,21/07/2020 12:32
+Treeing Walker Coonhound,None,False,Tricolor (Brown, & White),Adult,Male,Large,Short,True,False,False,True,None,True,None,[],Chip,adopted,24/07/2020 22:50,21/07/2020 17:49
+Terrier,Retriever,True,Brindle, ,Adult,Male,Medium,Short,True,True,False,True,True,True,False,"['Friendly', 'Good with dogs']",Triton,adopted,13/08/2020 23:11,21/07/2020 18:58
+Retriever,None,True,Apricot / Beige, ,Baby,Female,Medium,Short,True,False,False,True,None,True,None,[],Pippa,adopted,15/08/2020 14:08,21/07/2020 18:00
+Labrador Retriever,Shepherd,True,None, ,Baby,Male,Medium,None,False,False,False,True,True,True,True,[],Shepherd,adopted,21/07/2020 19:15,21/07/2020 19:15
+Terrier,Pit Bull Terrier,True,None, ,Adult,Female,Large,None,True,True,False,True,False,True,True,[],Daisy,adopted,21/07/2020 15:13,21/07/2020 15:13
+Pit Bull Terrier,None,False,None, ,Adult,Male,Medium,None,True,False,False,False,None,None,None,[],SALVADORE,adoptable,21/07/2020 17:51,21/07/2020 17:51
+Terrier,None,True,White / Cream, ,Adult,Female,Medium,Short,True,False,False,True,None,None,None,[],Grasshopper,adopted,28/07/2020 18:06,21/07/2020 19:58
+Spaniel,Chihuahua,True,None, ,Baby,Male,Small,None,True,True,False,True,True,True,True,[],Binky-ADOPTED 8/7/20; see his look-a-likes,adoptable,09/08/2020 17:45,21/07/2020 20:27
+Terrier,None,True,Brindle, ,Baby,Male,Small,Short,False,False,False,True,None,True,True,[],Fez,adoptable,21/07/2020 18:46,21/07/2020 18:46
+Pit Bull Terrier,None,True,White / Cream, ,Adult,Female,Medium,Short,True,False,False,True,None,None,None,[],Abalone,adoptable,02/08/2020 18:30,21/07/2020 18:15
+Mixed Breed,None,False,None, ,Young,Male,Medium,None,False,False,False,False,None,None,None,[],Dobie,adopted,24/07/2020 23:23,21/07/2020 19:57
+Chihuahua,None,True,None, ,Adult,Female,Small,None,False,False,False,True,None,True,None,[],Suki,adoptable,21/07/2020 11:05,21/07/2020 11:05
+Chocolate Labrador Retriever,Hound,True,Brown / Chocolate, ,Young,Female,Medium,None,True,False,False,True,None,True,None,"['calm', 'needs a dog buddy', 'sweet nature']",Taffy,adopted,26/07/2020 22:55,21/07/2020 19:55
+Terrier,None,True,Black, ,Baby,Female,Small,None,False,False,False,False,True,True,True,[],Serena,adopted,03/08/2020 16:51,21/07/2020 17:38
+Rat Terrier,None,True,None, ,Senior,Female,Medium,Wire,True,False,False,True,None,None,None,[],Dazzle,adopted,28/07/2020 23:47,21/07/2020 15:20
+Yorkshire Terrier,Poodle,True,None, ,Adult,Female,Small,None,True,True,False,True,True,True,None,[],Gracie,adopted,27/07/2020 13:37,21/07/2020 13:37
+Dachshund,None,True,Red / Chestnut / Orange, ,Adult,Male,Small,Short,True,False,False,True,None,None,None,[],Lobster,adopted,25/07/2020 22:15,21/07/2020 18:31
+Labrador Retriever,None,True,None, ,Adult,Male,Medium,Short,True,True,False,True,True,True,None,[],Tom,adopted,04/08/2020 14:09,21/07/2020 15:26
+Labrador Retriever,Boxer,True,Brindle, ,Baby,Male,Large,Short,False,False,False,True,True,True,None,"['Loving', 'Playful', 'Active']",MILO,adopted,28/07/2020 21:24,21/07/2020 13:20
+Staffordshire Bull Terrier,Pit Bull Terrier,True,Tricolor (Brown, & White),Adult,Female,Medium,None,True,True,False,True,True,None,False,[],Daisy,adopted,01/08/2020 09:06,21/07/2020 18:47
+Dachshund,None,False,Merle (Blue), ,Senior,Female,Small,Short,True,False,False,True,None,None,None,[],Patsy,adopted,21/07/2020 21:14,21/07/2020 15:32
+Hound,None,False,None, ,Adult,Male,Medium,None,True,False,False,True,None,None,None,[],Pepper,adoptable,21/07/2020 15:59,21/07/2020 15:59
+Terrier,Chihuahua,True,Black, ,Baby,Female,Medium,Short,True,False,False,True,True,True,True,[],Blackjack,adoptable,12/08/2020 15:46,21/07/2020 19:58
+Great Pyrenees,Australian Cattle Dog / Blue Heeler,True,None, ,Adult,Male,Large,None,True,True,False,True,True,True,True,[],Cooper,adopted,21/07/2020 20:45,21/07/2020 20:45
+German Shepherd Dog,None,True,None, ,Adult,Male,Large,None,True,True,False,True,True,True,False,[],Axel,adopted,21/07/2020 20:47,21/07/2020 20:47
+Chihuahua,Yorkshire Terrier,True,Red / Chestnut / Orange, ,Adult,Female,Small,Medium,True,False,False,True,True,True,True,[],Fancy Pants,adopted,28/07/2020 18:37,21/07/2020 18:01
+Bullmastiff,None,True,Brindle, ,Senior,Female,Large,Short,True,True,False,True,None,None,None,"['playful', 'smart', 'sweet', 'loveable', 'excellent on leash']",#¿NOMBRE?,adopted,08/08/2020 14:07,21/07/2020 13:38
+German Shepherd Dog,Shar-Pei,True,None, ,Young,Male,Medium,None,True,True,False,False,None,None,None,[],Lefty,adoptable,21/07/2020 19:45,21/07/2020 19:45
+Hound,None,False,Red / Chestnut / Orange, ,Young,Male,Large,Short,True,True,False,True,True,True,True,[],Buddy (Great Family Dog),adopted,26/07/2020 21:13,21/07/2020 15:59
+Mixed Breed,None,False,Brown / Chocolate, ,Adult,Male,Medium,None,False,False,False,True,None,None,None,[],Charlie,adoptable,21/07/2020 15:35,21/07/2020 15:35
+Shepherd,Retriever,True,Black, ,Young,Female,Medium,Medium,False,False,False,True,None,True,None,[],Sabrina,adopted,26/07/2020 22:02,21/07/2020 15:08
+Mixed Breed,None,False,Brindle, ,Senior,Female,Large,None,False,False,False,True,None,None,None,[],Hershey,adoptable,21/07/2020 18:45,21/07/2020 18:45
+Cattle Dog,None,False,None, ,Young,Female,Medium,None,False,False,False,True,None,None,None,[],Everly,adopted,25/07/2020 15:55,21/07/2020 11:21
+Spaniel,Retriever,True,Black, ,Baby,Female,Medium,Short,True,False,False,True,None,True,None,[],Jetta,adopted,30/07/2020 13:48,21/07/2020 17:52
+Terrier,None,True,Tricolor (Brown, & White),Baby,Female,Medium,Short,True,False,False,True,True,True,True,[],Pixar #3f,adopted,25/07/2020 17:35,21/07/2020 20:50
+Pit Bull Terrier,None,True,None, ,Young,Male,Large,None,True,True,False,True,True,True,None,[],RANSOM,adopted,14/08/2020 20:26,21/07/2020 20:09
+Cattle Dog,None,True,Gray / Blue / Silver, ,Baby,Male,Medium,Medium,False,False,False,False,None,None,None,[],Colt,adoptable,12/08/2020 15:50,21/07/2020 20:17
+Labrador Retriever,Shepherd,True,Black, ,Young,Male,Medium,Short,True,False,False,True,None,None,None,[],Current,adopted,30/07/2020 23:28,21/07/2020 18:19
+Australian Cattle Dog / Blue Heeler,None,True,Brown / Chocolate, ,Baby,Male,Medium,Short,False,False,False,True,True,True,True,[],Winston,adoptable,21/07/2020 20:39,21/07/2020 20:39
+Mixed Breed,None,False,Black, ,Adult,Male,Medium,None,False,False,False,False,None,None,None,[],MAX,adopted,26/07/2020 00:41,21/07/2020 20:43
+English Bulldog,None,False,Apricot / Beige, ,Adult,Female,Medium,Short,False,False,False,False,None,None,None,[],MOLLY,adopted,27/07/2020 19:35,21/07/2020 13:49
+Coonhound,Mixed Breed,True,Brindle, ,Adult,Male,Medium,None,True,False,False,True,None,None,None,[],Crawford,adoptable,21/07/2020 14:45,21/07/2020 14:45
+Patterdale Terrier / Fell Terrier,Mixed Breed,True,None, ,Adult,Male,Medium,None,True,False,False,False,None,None,None,[],LUCAS,adoptable,21/07/2020 20:51,21/07/2020 20:51
+Akbash,None,False,None, ,Young,Female,Large,None,True,True,False,False,None,True,None,[],Annie,adoptable,21/07/2020 15:23,21/07/2020 15:23
+American Bulldog,None,True,None, ,Adult,Male,Large,None,True,False,False,True,None,None,None,[],SAWYER,adopted,13/08/2020 22:14,21/07/2020 15:30
+Pit Bull Terrier,None,False,None, ,Adult,Female,Large,None,True,False,False,False,None,None,None,[],2006-0617 Skye,adoptable,21/07/2020 13:55,21/07/2020 13:55
+Yorkshire Terrier,None,True,Yellow / Tan / Blond / Fawn, ,Adult,Female,Small,Medium,False,True,False,False,None,True,False,[],Suzie,adopted,26/07/2020 12:33,21/07/2020 16:00
+Yorkshire Terrier,None,False,None, ,Adult,Male,Small,None,True,True,False,True,None,None,None,[],McTavish,adopted,21/07/2020 19:45,21/07/2020 19:45
+Labrador Retriever,None,True,Tricolor (Brown, & White),Baby,Female,Medium,Medium,False,False,False,True,True,True,True,[],Birdie,adopted,22/07/2020 15:30,21/07/2020 19:03
+Pit Bull Terrier,None,False,Black, ,Adult,Female,Medium,Short,True,True,False,True,True,True,True,[],Zsa Zsa Gabor,adoptable,21/07/2020 15:26,21/07/2020 15:26
+Catahoula Leopard Dog,None,True,None, ,Young,Male,Medium,None,True,True,False,True,True,None,None,[],Duke* A171850,adopted,27/07/2020 16:01,21/07/2020 17:53
+Mixed Breed,None,False,Brown / Chocolate, ,Baby,Female,Large,Short,True,False,False,True,True,True,None,[],Brownie,adopted,01/08/2020 22:55,21/07/2020 18:05
+Mixed Breed,None,False,Red / Chestnut / Orange, ,Senior,Male,Medium,None,True,False,False,True,None,None,None,[],Marshall 6D36,adoptable,21/07/2020 15:50,21/07/2020 15:50
+Mixed Breed,None,False,None, ,Adult,Male,Medium,None,True,False,False,False,None,None,None,[],HOTCH,adoptable,21/07/2020 12:50,21/07/2020 12:50
+Labrador Retriever,None,True,Black, ,Baby,Female,Medium,None,False,False,False,True,True,True,None,[],Hayley,adopted,31/07/2020 04:47,21/07/2020 18:47
+Shepherd,None,True,Tricolor (Brown, & White),Adult,Male,Medium,Short,False,False,False,False,None,None,None,[],Found! Male Stray,adopted,22/07/2020 15:05,21/07/2020 17:08
+Terrier,None,False,Brindle, ,Young,Female,Medium,Short,True,True,False,True,True,True,False,[],Lulu (Best Dog Ever),adoptable,08/08/2020 15:17,21/07/2020 18:53
+Pointer,None,True,White / Cream, ,Adult,Male,Medium,Short,True,False,False,True,None,None,None,[],Bragg,adopted,05/08/2020 19:36,21/07/2020 18:12
+Labrador Retriever,None,True,Yellow / Tan / Blond / Fawn, ,Baby,Male,Medium,None,False,False,False,True,True,True,None,[],Larry,adopted,25/07/2020 01:42,21/07/2020 18:39
+Retriever,Pit Bull Terrier,True,Black, ,Adult,Male,Large,Short,True,False,False,True,True,True,None,[],George,adopted,31/07/2020 19:44,21/07/2020 17:54
+American Bulldog,None,True,None, ,Adult,Male,Large,None,True,True,False,True,True,True,True,[],Roy curtesy post,adopted,30/07/2020 19:22,21/07/2020 17:13
+Terrier,None,True,None, ,Adult,Male,Small,Short,True,True,False,True,False,True,None,"['Shy', 'Loving', '']",Harley,adoptable,21/07/2020 19:09,21/07/2020 19:09
+Labrador Retriever,Terrier,True,None, ,Adult,Female,Large,None,True,True,False,False,None,True,None,[],Hope,adopted,26/07/2020 14:54,21/07/2020 18:10
+Spaniel,None,True,None, ,Young,Female,Medium,None,False,False,False,True,None,None,None,[],Norra,adopted,21/07/2020 17:07,21/07/2020 17:07
+Australian Cattle Dog / Blue Heeler,None,True,None, ,Baby,Female,Medium,Short,False,False,False,True,True,True,None,[],Gisella,adopted,26/07/2020 19:35,21/07/2020 17:46
+Pit Bull Terrier,None,True,None, ,Baby,Male,Medium,None,False,False,False,True,True,True,True,[],Dalton,adopted,21/07/2020 15:58,21/07/2020 15:58
+Husky,None,True,None, ,Baby,Female,Medium,None,False,False,False,True,True,True,None,[],Dublin,adopted,21/07/2020 11:52,21/07/2020 11:52
+Labrador Retriever,Shepherd,True,White / Cream, ,Baby,Male,Medium,Short,True,False,False,True,True,True,None,[],Rosco,adopted,26/07/2020 03:30,21/07/2020 20:43
+Collie,None,True,None, ,Baby,Female,Medium,None,True,False,False,True,True,True,True,[],Twisted Sister,adopted,21/07/2020 17:43,21/07/2020 17:43
+Treeing Walker Coonhound,None,True,Tricolor (Brown, & White),Baby,Male,Small,Short,False,False,False,False,None,True,None,[],Hoover,adopted,21/07/2020 17:28,21/07/2020 13:53
+American Staffordshire Terrier,None,True,White / Cream, ,Adult,Female,Large,None,True,True,False,True,True,True,True,[],Sweets,adoptable,21/07/2020 18:46,21/07/2020 18:46
+Retriever,None,True,None, ,Baby,Female,Medium,None,True,False,False,True,True,True,True,[],Tinsley,adopted,21/07/2020 11:05,21/07/2020 11:05
+Terrier,Collie,True,None, ,Baby,Male,Large,Medium,False,False,False,False,None,None,None,[],Kodiak~Adopted!!,adoptable,21/07/2020 15:08,21/07/2020 15:08
+Pit Bull Terrier,None,False,None, ,Adult,Male,Large,None,False,False,False,False,None,None,None,[],COOK,adoptable,21/07/2020 17:51,21/07/2020 17:51
+Black Mouth Cur,Labrador Retriever,True,Black, ,Young,Female,Medium,Short,True,False,False,True,True,True,None,[],Cassie - ADOPTION PENDING,adopted,04/08/2020 14:49,21/07/2020 13:36
+Terrier,Hound,True,Black, ,Baby,Female,Medium,Short,True,False,False,True,None,True,None,[],Georgina-pending,adopted,05/08/2020 01:15,21/07/2020 19:14
+Labrador Retriever,Pit Bull Terrier,True,None, ,Young,Male,Medium,None,False,True,False,False,True,True,None,[],Peanut,adopted,21/07/2020 19:28,21/07/2020 19:28
+Yorkshire Terrier,None,True,Black, ,Senior,Female,Small,Medium,True,False,False,True,False,True,True,[],Cameo,adopted,17/08/2020 20:41,22/07/2020 01:55
+Labrador Retriever,None,True,None, ,Baby,Female,Medium,None,False,False,False,False,None,True,None,[],Sue,adopted,25/07/2020 20:44,21/07/2020 18:12
+Shepherd,Australian Cattle Dog / Blue Heeler,True,Black, ,Adult,Male,Medium,Short,True,True,False,True,True,True,None,[],Cray,adoptable,21/07/2020 20:19,21/07/2020 20:19
+Hound,None,True,None, ,Adult,Male,Large,Short,True,True,False,True,False,None,False,[],Acorn,adoptable,21/07/2020 14:32,21/07/2020 14:32
+Shih Tzu,None,True,None, ,Senior,Male,Small,None,True,True,False,True,True,True,None,[],Sampson,adopted,21/07/2020 11:05,21/07/2020 11:05
+Cattle Dog,None,True,None, ,Baby,Male,Medium,None,True,False,False,True,True,True,True,[],Cattle Dog Mix M #2,adopted,22/07/2020 16:46,21/07/2020 15:14
+Mastiff,None,True,None, ,Young,Male,Large,None,True,True,False,True,True,True,True,[],Fergus,adopted,04/08/2020 13:37,21/07/2020 20:49
+Shih Tzu,None,True,None, ,Senior,Male,Small,None,True,True,False,True,True,True,None,[],Senji,adopted,21/07/2020 11:05,21/07/2020 11:05
+Labrador Retriever,Shepherd,True,Yellow / Tan / Blond / Fawn, ,Baby,Male,Medium,Short,True,False,False,True,True,True,None,[],Rooney,adopted,26/07/2020 03:30,21/07/2020 20:42
+Plott Hound,None,True,Brindle, ,Young,Male,Medium,Short,True,False,False,True,None,True,None,[],Peanut Butter   (no apartments),adoptable,21/07/2020 20:02,21/07/2020 20:02
+Dachshund,None,True,None, ,Baby,Male,Medium,None,False,False,False,False,True,True,True,[],Mr. Moon,adopted,21/07/2020 13:06,21/07/2020 13:06
+Pointer,Labrador Retriever,True,None, ,Baby,Female,Medium,Short,True,True,False,True,None,None,None,[],Mabel,adopted,04/08/2020 11:42,21/07/2020 20:22
+Labrador Retriever,Shepherd,True,White / Cream, ,Young,Female,Medium,Short,True,True,False,True,True,True,True,[],Darcy,adopted,30/07/2020 13:58,21/07/2020 19:17
+Alaskan Malamute,Siberian Husky,True,None, ,Adult,Female,Large,Long,True,True,False,True,True,None,None,[],Nani,adoptable,21/07/2020 12:07,21/07/2020 12:07
+Pit Bull Terrier,None,True,Brown / Chocolate, ,Baby,Male,Medium,Short,True,False,False,True,True,None,None,[],Kiro,adoptable,21/07/2020 13:29,21/07/2020 13:29
+Mixed Breed,None,False,White / Cream, ,Senior,Female,Large,None,True,False,False,True,None,None,None,"['Fence Jumper', 'Single Dog Home']",Jane,adoptable,21/07/2020 19:30,21/07/2020 19:30
+Beagle,None,True,Tricolor (Brown, & White),Young,Male,Small,Short,True,False,False,True,None,None,None,[],Dibble,adopted,21/07/2020 13:15,21/07/2020 12:11
+Chihuahua,None,True,None, ,Senior,Female,Small,None,True,False,False,True,True,True,True,[],Isabella,adoptable,21/07/2020 19:15,21/07/2020 19:15
+Labrador Retriever,Terrier,True,None, ,Baby,Male,Medium,None,True,False,False,True,None,True,None,[],Frisbee,adopted,21/07/2020 11:05,21/07/2020 11:05
+Jindo,None,False,White / Cream, ,Adult,Male,Medium,Medium,True,False,False,True,None,None,None,[],Goomba,adoptable,21/07/2020 17:26,21/07/2020 17:26
+Pit Bull Terrier,Boxer,True,None, ,Adult,Female,Medium,None,True,True,False,True,False,True,None,[],Zena,adoptable,21/07/2020 18:40,21/07/2020 18:40
+German Shepherd Dog,Mixed Breed,True,Black, ,Adult,Male,Medium,Short,True,False,False,True,True,True,True,"['active', 'loving', 'dog friendly', 'smart']",Porter,adopted,23/07/2020 20:28,21/07/2020 11:58
+Beagle,None,True,Red / Chestnut / Orange, ,Senior,Male,Medium,Medium,True,True,False,True,True,True,True,[],Bob The Beagle,adopted,01/08/2020 18:06,21/07/2020 17:53
+Terrier,Catahoula Leopard Dog,True,Merle (Red), ,Baby,Female,Medium,Short,True,False,False,True,None,True,None,[],Scrumdiddlyumptious,adopted,13/08/2020 14:33,21/07/2020 19:30
+Goldendoodle,None,False,Apricot / Beige, ,Young,Male,Large,Medium,True,False,False,True,True,True,None,"['Golden', 'doodle', 'loving', 'goldendoodle']",Max,adopted,04/08/2020 18:06,21/07/2020 19:56
+Mixed Breed,None,True,Black, ,Young,Female,Small,Short,True,False,False,True,None,True,None,[],Blue,adopted,25/07/2020 15:48,21/07/2020 18:45
+Terrier,None,False,Golden, ,Adult,Female,Small,Short,False,False,False,False,None,None,None,[],LOOANNE,adopted,28/07/2020 20:38,21/07/2020 15:46
+Chihuahua,Schipperke,True,Bicolor, ,Senior,Male,Small,Medium,True,True,True,True,None,True,None,[],Sampson,adoptable,03/08/2020 18:38,21/07/2020 19:35
+Terrier,None,True,Golden, ,Baby,Male,Small,Short,False,False,False,False,True,True,True,[],HOLDEN,adopted,28/07/2020 17:12,21/07/2020 17:49
+Beagle,Australian Cattle Dog / Blue Heeler,True,Tricolor (Brown, & White),Young,Female,Medium,None,False,True,False,True,True,True,None,[],Honey,adopted,04/08/2020 03:05,21/07/2020 18:04
+Labrador Retriever,Australian Shepherd,True,None, ,Young,Male,Medium,None,True,True,False,True,True,True,True,[],Pike,adopted,28/07/2020 02:07,21/07/2020 14:26
+Shepherd,Chow Chow,True,None, ,Senior,Female,Large,Medium,True,True,True,True,True,False,True,[],Heidi,adopted,30/07/2020 14:18,21/07/2020 15:38
+Beagle,None,False,Tricolor (Brown, & White),Young,Female,Small,Short,False,False,False,True,True,True,True,[],122,adopted,22/07/2020 17:24,21/07/2020 12:55
+Husky,None,True,Brown / Chocolate, ,Young,Male,Medium,Short,True,False,False,True,True,True,None,[],Utah,adopted,28/07/2020 13:42,21/07/2020 13:10
+Jindo,None,False,White / Cream, ,Young,Male,Medium,Short,True,False,False,True,None,True,True,[],Wiley,adopted,02/08/2020 20:26,21/07/2020 18:17
+Pit Bull Terrier,None,False,Black, ,Senior,Female,Large,Short,True,True,False,True,True,False,False,[],Sassy Ann,adoptable,21/07/2020 22:15,21/07/2020 22:15
+Shar-Pei,Labrador Retriever,True,White / Cream, ,Baby,Female,Medium,Short,True,True,False,True,True,True,True,[],Deli-PENDING,adopted,01/08/2020 15:16,21/07/2020 18:03
+Labrador Retriever,Pit Bull Terrier,True,None, ,Young,Male,Large,None,False,False,False,True,None,True,None,[],Abner,adopted,21/07/2020 17:09,21/07/2020 17:09
+Australian Cattle Dog / Blue Heeler,None,True,Brindle, ,Adult,Male,Medium,Short,True,True,False,True,True,True,False,[],Tank,adopted,04/08/2020 15:40,21/07/2020 18:57
+Border Collie,Spaniel,True,None, ,Adult,Male,Medium,None,True,False,False,True,None,None,None,[],Baxter and Roscoe,adopted,30/07/2020 12:59,21/07/2020 18:40
+Shih Tzu,Yorkshire Terrier,True,Red / Chestnut / Orange, ,Adult,Male,Small,Long,True,False,False,True,False,True,True,[],BamBam,adopted,28/07/2020 18:05,21/07/2020 18:08
+Terrier,None,True,Tricolor (Brown, & White),Young,Female,Medium,Short,True,False,False,True,True,True,None,[],Sophie,adoptable,21/07/2020 15:04,21/07/2020 15:04
+Pit Bull Terrier,None,True,Black, ,Adult,Male,Medium,None,True,False,False,True,None,None,None,[],Armando,adoptable,21/07/2020 19:45,21/07/2020 19:45
+Chihuahua,None,True,Black, ,Adult,Female,Small,Short,True,True,False,True,True,True,None,"['active', 'playful', 'loving']",Charlotte,adopted,24/07/2020 19:26,21/07/2020 14:17
+Terrier,None,True,Black, ,Baby,Male,Small,Wire,False,False,False,True,True,True,True,[],Bentley,adopted,25/07/2020 16:41,21/07/2020 19:44
+Poodle,None,True,White / Cream, ,Adult,Male,Small,Medium,True,False,False,True,False,True,None,[],Riley,adopted,22/07/2020 19:12,21/07/2020 20:50
+Chihuahua,None,True,None, ,Baby,Male,Small,None,True,True,False,True,True,True,True,[],Casper-ADOPTION pending,adoptable,09/08/2020 17:45,21/07/2020 20:11
+Treeing Walker Coonhound,None,True,Tricolor (Brown, & White),Baby,Female,Small,Short,False,False,False,False,None,True,None,[],Shark,adopted,21/07/2020 18:12,21/07/2020 13:49
+Coonhound,Mixed Breed,True,Brindle, ,Adult,Male,Medium,None,True,False,False,True,None,None,None,[],Geddy,adoptable,21/07/2020 14:45,21/07/2020 14:45
+Terrier,Hound,True,Brindle, ,Baby,Female,Medium,Short,True,False,False,True,None,True,None,[],Gumdrop,adopted,13/08/2020 14:33,21/07/2020 19:34
+Miniature Pinscher,None,True,None, ,Senior,Male,Small,None,True,False,False,True,None,True,True,[],Sammy,adoptable,21/07/2020 19:51,21/07/2020 19:51
+Labrador Retriever,None,True,None, ,Adult,Male,Large,None,True,False,False,False,None,None,None,[],2007-1566 Odin,adoptable,21/07/2020 13:55,21/07/2020 13:55
+Dachshund,Basset Hound,True,Tricolor (Brown, & White),Senior,Male,Small,Medium,True,False,False,True,None,True,None,"['chill kinda guy', 'adorable', 'sweet']",Scooby,adopted,09/08/2020 17:01,21/07/2020 23:52
+Chihuahua,None,False,Black, ,Adult,Female,Small,Short,True,True,False,True,None,True,True,[],Athena ADOPTED AR,adopted,08/08/2020 16:42,21/07/2020 20:11
+Pointer,None,True,White / Cream, ,Young,Female,Medium,Short,True,False,False,True,None,None,None,[],Patsy,adopted,12/08/2020 19:21,21/07/2020 18:59
+German Shepherd Dog,Mixed Breed,True,None, ,Adult,Male,Extra Large,None,True,False,False,False,None,None,None,[],COOPER,adoptable,21/07/2020 15:51,21/07/2020 15:51
+Mixed Breed,None,False,Black, ,Baby,Male,Medium,None,True,False,False,True,True,True,None,[],Mak,adoptable,17/08/2020 17:06,21/07/2020 18:19
+Shepherd,None,True,None, ,Young,Male,Large,None,True,False,False,True,None,None,None,[],Sandcastle,adopted,14/08/2020 12:33,21/07/2020 15:53
+Great Pyrenees,Labrador Retriever,True,White / Cream, ,Adult,Male,Large,Medium,True,True,False,True,True,True,True,[],Elvis,adopted,23/07/2020 00:02,21/07/2020 11:22
+Shepherd,None,True,None, ,Adult,Female,Large,None,True,True,False,True,True,True,None,[],Sierra,adopted,21/07/2020 20:47,21/07/2020 20:47
+Labrador Retriever,Collie,True,Black, ,Young,Male,Medium,Short,True,False,False,True,False,True,None,[],Daniel,adoptable,22/07/2020 21:29,22/07/2020 21:29
+German Shepherd Dog,None,False,Black, ,Young,Female,Large,Medium,True,False,False,True,None,None,None,"['newbie', 'bio coming soon']",*Skye von Singen,adopted,27/07/2020 18:08,21/07/2020 19:32
+Pit Bull Terrier,None,True,Red / Chestnut / Orange, ,Baby,Female,Medium,Short,True,False,False,True,None,None,None,[],JoJo,adopted,30/07/2020 17:05,21/07/2020 13:12
+Mountain Dog,None,True,White / Cream, ,Baby,Male,Medium,None,True,False,False,True,None,True,None,[],Tivon,adoptable,21/07/2020 18:21,21/07/2020 18:21
+Pit Bull Terrier,None,True,Brindle, ,Baby,Female,Small,Short,True,False,False,True,None,None,None,"['loving', 'playful', 'energy']",Elsa,adopted,22/07/2020 18:24,21/07/2020 14:44
+Rottweiler,Hound,True,None, ,Adult,Male,Medium,None,False,False,False,False,None,None,None,[],Chipper,adopted,30/07/2020 16:56,21/07/2020 17:21
+Rottweiler,Hound,True,Black, ,Baby,Male,Medium,Short,True,False,False,True,True,True,True,[],Ernie,adopted,02/08/2020 21:32,21/07/2020 20:24
+Terrier,Collie,True,None, ,Baby,Female,Medium,Short,False,False,False,False,None,None,None,[],Summit~Adopted!!,adoptable,21/07/2020 15:38,21/07/2020 15:38
+Chihuahua,None,True,None, ,Senior,Male,Small,None,False,False,False,True,False,True,None,[],Tiger,adopted,28/07/2020 01:44,21/07/2020 19:50
+Hound,None,True,Yellow / Tan / Blond / Fawn, ,Baby,Female,Medium,Short,True,False,False,True,None,True,None,[],Maple,adopted,01/08/2020 01:11,21/07/2020 17:57
+Chihuahua,None,False,Tricolor (Brown, & White),Young,Female,Small,None,True,True,True,True,True,True,None,[],Sabina,adopted,06/08/2020 13:38,21/07/2020 13:37
+Hound,None,False,Brown / Chocolate, ,Baby,Female,Medium,Short,False,False,False,True,None,True,None,[],Subpoena,adopted,05/08/2020 02:03,21/07/2020 15:47
+Labrador Retriever,Terrier,True,Brindle, ,Young,Male,Medium,Medium,True,True,False,True,True,True,None,['friendly'],Scout,adopted,27/07/2020 16:55,21/07/2020 19:30
+Labrador Retriever,None,False,None, ,Adult,Male,Large,Short,False,False,False,True,True,True,None,[],Hank Williams,adoptable,21/07/2020 20:09,21/07/2020 20:09
+Basset Hound,Beagle,True,Golden, ,Baby,Male,Medium,Short,True,True,False,True,True,True,None,[],Simon,adopted,26/07/2020 20:56,21/07/2020 19:19
+Mastiff,American Staffordshire Terrier,True,None, ,Young,Male,Large,None,True,False,False,False,True,True,None,[],Nitro,adoptable,21/07/2020 11:06,21/07/2020 11:06
+Rottweiler,None,True,Black, ,Adult,Female,Medium,Medium,True,False,True,True,None,True,False,[],Keelie   Lower Fee!,adopted,12/08/2020 04:31,21/07/2020 19:54
+Mixed Breed,None,False,Bicolor, ,Baby,Female,Large,Short,True,False,False,True,True,True,None,[],Andra,adopted,29/07/2020 22:29,21/07/2020 18:48
+Jack Russell Terrier,Chihuahua,True,None, ,Adult,Female,Small,Short,True,False,False,True,None,True,None,[],"Gigi - sassy, plyaful and affectionate",adopted,04/08/2020 01:29,21/07/2020 14:37
+Beagle,Dachshund,True,Golden, ,Adult,Female,Medium,Short,True,True,False,True,None,True,None,"['Gentle', 'Affectionate', 'Mellow']",Gates,adopted,31/07/2020 23:39,21/07/2020 20:15
+Border Collie,None,False,Black, ,Young,Female,Medium,Short,False,False,False,True,True,True,None,[],Pepper,adopted,25/07/2020 18:53,21/07/2020 18:11
+Collie,None,True,None, ,Adult,Female,Medium,None,True,True,False,True,True,True,None,[],Pat Benetar,adopted,21/07/2020 17:12,21/07/2020 17:12
+Mixed Breed,None,False,Black, ,Baby,Male,Medium,None,True,False,False,True,True,True,None,[],Calaway,adopted,06/08/2020 01:39,21/07/2020 18:17
+American Bulldog,None,True,None, ,Adult,Female,Medium,None,True,False,False,False,None,False,False,[],Ruby (spayed),adoptable,21/07/2020 15:43,21/07/2020 15:43
+Redbone Coonhound,None,True,Red / Chestnut / Orange, ,Baby,Male,Medium,Short,True,False,False,True,None,None,None,[],Billy,adopted,21/07/2020 15:39,21/07/2020 12:15
+Jack Russell Terrier,None,True,Tricolor (Brown, & White),Senior,Male,Small,Short,True,True,False,True,None,True,None,"['Happy', 'Friendly']",Happy,adopted,23/07/2020 12:26,21/07/2020 20:51
+Great Pyrenees,Greater Swiss Mountain Dog,True,Tricolor (Brown, & White),Senior,Female,Medium,Medium,True,True,False,True,True,True,True,[],Delilah PENDING,adopted,30/07/2020 16:07,21/07/2020 14:05
+Cattle Dog,None,True,Merle (Blue), ,Baby,Female,Medium,Medium,False,False,False,False,None,None,None,[],Cassidy,adoptable,12/08/2020 15:50,21/07/2020 20:18
+Chihuahua,Terrier,True,White / Cream, ,Senior,Female,Small,Medium,True,True,False,True,True,True,True,[],Sasha,adopted,14/08/2020 23:34,21/07/2020 14:55
+Pit Bull Terrier,Mixed Breed,True,None, ,Young,Female,Medium,None,True,False,False,False,None,None,None,[],ADDIE,adoptable,21/07/2020 19:51,21/07/2020 19:51
+Pit Bull Terrier,None,True,None, ,Young,Female,Medium,Medium,True,True,False,True,None,None,None,[],Layla,adoptable,21/07/2020 18:27,21/07/2020 18:27
+Dachshund,None,False,Black, ,Adult,Male,Small,Long,False,False,False,True,True,True,None,[],Tank,adoptable,14/08/2020 20:59,21/07/2020 15:31
+Cattle Dog,None,True,None, ,Adult,Female,Medium,Short,False,False,False,False,None,None,None,"['sweet', 'darling', 'playful']",Luma,adopted,02/08/2020 19:22,21/07/2020 19:48
+Chihuahua,None,False,Brown / Chocolate, ,Adult,Male,Small,Short,True,False,False,True,False,True,True,[],Chimichanga,adopted,29/07/2020 20:37,21/07/2020 18:43
+American Staffordshire Terrier,None,False,Bicolor, ,Adult,Female,Medium,Short,True,True,False,True,None,True,False,[],Xena,adoptable,21/07/2020 13:53,21/07/2020 13:53
+Boxer,None,True,Brown / Chocolate, ,Baby,Male,Medium,Short,True,False,False,True,None,None,None,[],Gotti,adopted,22/07/2020 12:51,21/07/2020 20:34
+Havanese,None,False,None, ,Adult,Female,Small,Long,True,False,False,True,None,True,True,[],Sunny,adopted,07/08/2020 18:03,21/07/2020 18:57
+Jindo,None,False,White / Cream, ,Young,Male,Medium,Short,True,True,False,True,None,True,False,[],Oso,adopted,27/07/2020 16:56,21/07/2020 18:24
+Husky,None,True,None, ,Young,Female,Medium,None,False,False,False,False,None,None,None,[],*Mantis* Puppy,adopted,21/07/2020 20:47,21/07/2020 20:47
+Hound,Dachshund,True,Bicolor, ,Baby,Male,Medium,Short,True,False,False,True,True,True,True,"['playful', 'active']",Biggie,adopted,03/08/2020 00:40,21/07/2020 19:01
+Shepherd,None,True,Brown / Chocolate, ,Young,Male,Large,Short,True,True,False,False,True,True,None,[],Scout,adopted,29/07/2020 17:54,21/07/2020 17:40
+Rat Terrier,None,True,None, ,Senior,Female,Medium,Wire,True,False,False,True,None,None,None,[],Razzle,adopted,28/07/2020 23:46,21/07/2020 15:16
+Staffordshire Bull Terrier,None,True,Black, ,Adult,Male,Medium,Short,True,True,False,True,False,True,None,[],Soldier,adopted,04/08/2020 18:34,21/07/2020 17:43
+Cattle Dog,Australian Shepherd,True,Black, ,Young,Female,Medium,Short,True,True,False,True,True,True,True,[],DARLING - BE MY FUREVER!,adoptable,21/07/2020 17:32,21/07/2020 17:32
+Mixed Breed,None,False,Red / Chestnut / Orange, ,Adult,Female,Medium,None,False,False,False,True,None,None,None,[],Rachel,adoptable,21/07/2020 15:35,21/07/2020 15:35
+Rottweiler,None,True,Black, ,Adult,Female,Medium,Medium,True,False,True,True,None,True,False,[],Keelie    Lower Fee!,adopted,12/08/2020 04:32,21/07/2020 19:51
+Staffordshire Bull Terrier,None,True,None, ,Adult,Male,Medium,None,True,True,False,True,None,None,None,[],Joker,adopted,21/07/2020 20:47,21/07/2020 20:47
+Pit Bull Terrier,None,True,None, ,Adult,Female,Medium,Medium,False,False,False,True,None,None,False,[],Rose,adopted,04/08/2020 17:52,21/07/2020 18:31
+Husky,None,True,None, ,Adult,Female,Medium,Medium,True,False,False,True,None,None,None,[],Zena,adopted,22/07/2020 18:59,21/07/2020 15:33
+Terrier,Chihuahua,True,White / Cream, ,Young,Female,Small,Short,True,False,False,True,None,None,None,[],Belle,adopted,02/08/2020 22:36,21/07/2020 19:52
+Pit Bull Terrier,None,True,Brindle, ,Baby,Female,Small,Short,True,False,False,True,None,None,None,"['loving', 'playful', 'energy']",Bette,adopted,26/07/2020 20:26,21/07/2020 14:46
+German Shepherd Dog,None,True,Black, ,Adult,Male,Large,Short,True,True,False,False,True,False,True,[],Milo,adopted,28/07/2020 19:56,21/07/2020 17:37
+Labrador Retriever,None,True,None, ,Baby,Female,Medium,Short,True,False,False,True,None,True,None,[],Ebony,adopted,23/07/2020 18:15,21/07/2020 16:00
+Chihuahua,None,True,None, ,Baby,Female,Small,None,True,False,False,True,True,True,True,[],Salted Caramel,adopted,21/07/2020 17:26,21/07/2020 17:26
+German Shepherd Dog,Labrador Retriever,True,Black, ,Adult,Male,Large,None,False,False,False,False,None,None,None,[],Raymond,adopted,22/07/2020 17:22,21/07/2020 13:37
+Staffordshire Bull Terrier,None,True,Brindle, ,Baby,Female,Large,Short,True,False,False,True,None,True,True,"['playful', 'energetic']",Sweet Pea,adopted,29/07/2020 12:38,21/07/2020 19:34
+German Shepherd Dog,Shepherd,True,Tricolor (Brown, & White),Adult,Female,Large,Medium,True,False,False,True,True,True,True,[],Callie,adopted,30/07/2020 23:17,21/07/2020 18:40
+Mixed Breed,None,False,White / Cream, ,Baby,Male,Large,Short,True,False,False,True,True,True,True,[],Rocket,adopted,12/08/2020 00:51,21/07/2020 18:12
+Pit Bull Terrier,None,True,None, ,Adult,Male,Medium,None,True,False,False,True,None,None,None,[],Rocky,adopted,21/07/2020 15:13,21/07/2020 15:13
+Italian Greyhound,Miniature Pinscher,True,None, ,Young,Female,Small,Short,True,False,False,True,None,None,None,[],Lulu,adopted,25/07/2020 20:47,21/07/2020 17:53
+Dachshund,Chihuahua,True,Merle (Blue), ,Baby,Female,Small,Short,True,False,False,True,True,True,None,[],Poppy-Adoption Pending,adoptable,14/08/2020 20:59,21/07/2020 15:35
+Beagle,None,False,Tricolor (Brown, & White),Senior,Female,Medium,Short,False,True,False,False,False,True,True,[],LIzzie,adoptable,21/07/2020 18:26,21/07/2020 18:26
+Mountain Dog,Feist,True,Black, ,Young,Male,Medium,Short,True,True,False,True,True,None,None,[],Dexter,adoptable,21/07/2020 18:42,21/07/2020 18:42
+Pit Bull Terrier,None,False,None, ,Adult,Female,Large,None,False,False,False,False,None,None,None,[],PATRA,adoptable,21/07/2020 20:51,21/07/2020 20:51
+Chihuahua,None,True,Red / Chestnut / Orange, ,Baby,Male,Small,Short,True,False,False,True,True,True,True,[],Ginger,adopted,24/07/2020 11:33,21/07/2020 18:14
+Pit Bull Terrier,None,False,Brindle, ,Young,Male,Large,Short,True,False,False,True,None,None,False,[],Kodiak,adopted,08/08/2020 10:51,21/07/2020 15:48
+Labrador Retriever,Redbone Coonhound,True,Black, ,Baby,Male,Medium,Short,True,False,False,True,True,True,True,[],Rossi - Sweet Puppy Breath,adopted,25/07/2020 17:54,21/07/2020 18:52
+Mixed Breed,None,False,Gray / Blue / Silver, ,Young,Male,Medium,Short,False,False,False,True,None,None,None,[],Miles,adopted,07/08/2020 15:44,21/07/2020 19:53
+Australian Shepherd,Terrier,True,None, ,Baby,Male,Small,Short,True,False,False,True,None,None,None,[],Jake,adopted,22/07/2020 21:10,21/07/2020 15:10
+Chihuahua,None,True,None, ,Adult,Male,Medium,None,True,False,False,False,None,True,None,[],Crash,adopted,21/07/2020 22:29,21/07/2020 20:11
+Chihuahua,None,True,None, ,Baby,Male,Small,None,True,False,False,True,True,True,True,[],Prince Cuddlebutt,adopted,21/07/2020 17:12,21/07/2020 17:12
+Hound,Labrador Retriever,True,None, ,Adult,Female,Medium,None,False,False,False,True,True,True,None,[],Carly,adoptable,24/07/2020 20:25,21/07/2020 19:44
+Chihuahua,None,True,Bicolor, ,Adult,Male,Small,Short,True,False,False,True,None,None,None,[],Butterfinger,adopted,24/07/2020 16:25,21/07/2020 15:53
+Terrier,Hound,True,Brindle, ,Baby,Male,Medium,Short,True,False,False,True,None,True,None,[],Mike TeaVee,adopted,31/07/2020 23:55,21/07/2020 19:10
+Pit Bull Terrier,None,True,Gray / Blue / Silver, ,Adult,Female,Medium,Short,True,True,False,True,True,True,None,[],Pepper,adopted,02/08/2020 17:57,21/07/2020 17:46
+Pit Bull Terrier,None,True,None, ,Baby,Male,Medium,None,False,False,False,False,True,True,True,[],Finn,adoptable,21/07/2020 13:41,21/07/2020 13:41
+German Shepherd Dog,Cattle Dog,True,Bicolor, ,Young,Male,Medium,Short,True,True,False,True,True,True,True,[],Donner,adopted,24/07/2020 23:00,21/07/2020 19:58
+Mixed Breed,None,False,Black, ,Young,Male,Medium,Short,False,False,False,True,None,None,None,[],Ray Lo,adopted,30/07/2020 16:02,21/07/2020 15:32
+American Bulldog,Beagle,True,White / Cream, ,Adult,Male,Medium,Short,True,False,False,True,True,True,None,[],Atlas in NH,adopted,24/07/2020 04:53,21/07/2020 14:57
+Akita,None,False,None, ,Young,Male,Large,None,True,True,False,True,None,None,None,[],Hakeem,adoptable,21/07/2020 13:08,21/07/2020 13:08
+German Shorthaired Pointer,None,False,None, ,Adult,Male,Large,None,False,True,False,True,None,None,None,[],Max,adoptable,21/07/2020 18:22,21/07/2020 18:22
+Beagle,None,False,Tricolor (Brown, & White),Young,Male,Medium,Short,True,True,False,True,True,True,True,[],Cena,adoptable,21/07/2020 18:22,21/07/2020 18:22
+German Shepherd Dog,None,False,Black, ,Adult,Male,Large,Medium,True,False,False,True,None,None,None,"['new dog in town', 'bio in the making']",*Ollie von Olsberg,adopted,30/07/2020 23:01,21/07/2020 19:15
+Terrier,None,False,None, ,Adult,Female,Medium,Short,False,False,False,False,None,None,None,[],Sphinx,adoptable,22/07/2020 01:19,22/07/2020 01:19
+German Pinscher,None,True,None, ,Adult,Male,Small,None,True,True,False,True,True,True,None,[],Chase,adopted,30/07/2020 19:03,21/07/2020 20:46
+Labrador Retriever,None,True,Black, ,Baby,Female,Medium,Short,True,False,False,True,True,True,True,[],Angel,adopted,24/07/2020 11:33,21/07/2020 18:24
+Hound,None,False,None, ,Baby,Female,Medium,Short,True,False,False,True,True,True,True,[],Jasmine in NH,adopted,24/07/2020 05:07,21/07/2020 15:08
+Miniature Pinscher,None,True,Gray / Blue / Silver, ,Adult,Female,Small,None,True,True,False,True,True,True,None,[],Marley,adopted,27/07/2020 13:37,21/07/2020 13:37
+Retriever,None,True,None, ,Baby,Male,Medium,None,True,False,False,True,True,True,True,[],Cole,adopted,21/07/2020 11:05,21/07/2020 11:05
+Australian Cattle Dog / Blue Heeler,Shepherd,True,None, ,Adult,Male,Large,None,False,False,False,False,True,True,None,[],Rugar,adoptable,21/07/2020 20:00,21/07/2020 20:00
+Labrador Retriever,None,False,None, ,Young,Male,Medium,None,True,True,False,True,True,None,None,[],Theon,adopted,31/07/2020 18:56,21/07/2020 20:36
+Beagle,None,False,Tricolor (Brown, & White),Senior,Female,Medium,Short,False,True,False,False,False,None,True,[],Abby,adoptable,21/07/2020 18:29,21/07/2020 18:29
+Husky,None,False,Tricolor (Brown, & White),Young,Male,Large,None,False,True,False,True,True,True,None,[],Traeger #419,adopted,23/07/2020 13:54,21/07/2020 18:46
+Dachshund,None,False,Black, ,Young,Male,Small,Long,True,True,False,True,False,True,False,[],Ben and Jerry,adoptable,21/07/2020 18:26,21/07/2020 18:26
+Black and Tan Coonhound,Hound,True,Bicolor, ,Adult,Male,Medium,Short,True,True,False,True,False,True,False,[],Lenny*Needs experienced adopter*,adoptable,21/07/2020 20:16,21/07/2020 20:16
+Border Collie,None,True,Red / Chestnut / Orange, ,Adult,Male,Large,None,False,True,False,True,True,True,None,[],Beethoven,adopted,06/08/2020 12:14,21/07/2020 20:57
+Dutch Shepherd,Belgian Shepherd / Malinois,True,Brindle, ,Adult,Female,Large,Short,True,True,False,True,True,True,None,[],Freedom,adoptable,21/07/2020 18:23,21/07/2020 18:23
+Hound,None,True,Brindle, ,Baby,Male,Medium,Short,False,False,False,True,None,True,None,[],Praecipe,adopted,05/08/2020 02:03,21/07/2020 15:40
+Mixed Breed,None,False,Brindle, ,Baby,Male,Medium,Short,False,False,False,True,None,None,None,[],Chance,adopted,07/08/2020 15:44,21/07/2020 19:52
+Terrier,None,True,None, ,Adult,Male,Small,None,True,True,False,True,True,True,None,[],Kumquat,adopted,21/07/2020 12:37,21/07/2020 12:37
+Staffordshire Bull Terrier,Chihuahua,True,Gray / Blue / Silver, ,Young,Female,Medium,Short,True,True,False,True,True,True,True,"['playful', 'good with kids', 'good with dogs', 'friendly']",Luchien,adopted,27/07/2020 16:55,21/07/2020 19:06
+Pomeranian,Shih Tzu,True,None, ,Baby,Female,Small,None,True,False,False,True,None,True,True,[],Penny,adopted,31/07/2020 22:46,21/07/2020 15:30
+Hound,None,True,Tricolor (Brown, & White),Senior,Male,Large,Short,True,True,True,True,None,None,None,"['Sweet', 'charming', 'senior', 'gentleman', 'Special Needs']",#¿NOMBRE?,adopted,28/07/2020 13:18,21/07/2020 15:03
+Mastiff,None,True,None, ,Adult,Female,Large,None,True,False,False,False,None,None,None,[],Jasmine,adoptable,21/07/2020 12:45,21/07/2020 12:45
+Poodle,None,True,White / Cream, ,Senior,Male,Small,Medium,True,True,False,True,False,True,None,"['sweet', 'loving', 'cuddlebug']",Ralphie,adopted,02/08/2020 01:13,22/07/2020 02:07
+German Shepherd Dog,None,True,None, ,Baby,Male,Large,None,False,True,False,True,True,True,True,[],Kody,adopted,21/07/2020 14:26,21/07/2020 14:26
+Border Collie,None,True,None, ,Baby,Female,Medium,None,True,True,False,True,None,None,None,[],Joan Jett,adopted,21/07/2020 12:37,21/07/2020 12:37
+Bichon Frise,Lhasa Apso,True,White / Cream, ,Adult,Male,Small,None,False,False,False,False,None,None,None,[],Lenny,adopted,21/07/2020 14:54,21/07/2020 13:46
+German Shepherd Dog,None,False,Black, ,Young,Female,Large,Medium,True,False,False,True,None,None,None,"['new beauty', 'bio coming soon']",*Ava von Ansbach,adopted,31/07/2020 19:08,21/07/2020 19:38
+Mixed Breed,None,False,None, ,Adult,Male,Medium,None,True,False,False,False,None,None,None,[],ROSSI,adoptable,21/07/2020 12:50,21/07/2020 12:50
+Pit Bull Terrier,None,False,Black, ,Young,Male,Medium,None,True,False,False,True,None,None,None,"['Adult Only Home Preferred', 'Crate Trained', 'Dog Friendly', 'Loves Play', 'People Friendly', 'Potty Trained', 'Shy', 'Snuggler']",Baz,adoptable,21/07/2020 15:10,21/07/2020 15:10
+Labrador Retriever,Boxer,True,Black, ,Adult,Male,Medium,Short,True,False,False,True,None,None,None,[],Plankton,adopted,23/07/2020 02:35,21/07/2020 18:35
+Australian Shepherd,None,True,Brindle, ,Baby,Female,Medium,Medium,True,False,False,True,None,True,None,[],Eva,adopted,30/07/2020 13:49,21/07/2020 18:07
+Mixed Breed,None,True,Bicolor, ,Young,Male,Large,Short,False,False,False,False,None,None,None,[],MALCOLM - #5,adopted,23/07/2020 13:33,21/07/2020 15:01
+Terrier,Chihuahua,True,None, ,Young,Male,Small,None,False,False,False,False,None,None,None,[],Grizzly,adopted,22/07/2020 19:39,21/07/2020 13:53
+Boxer,Black Labrador Retriever,True,Brown / Chocolate, ,Adult,Female,Medium,Short,True,True,False,True,None,None,False,[],Nala,adopted,03/08/2020 21:44,21/07/2020 20:52
+Anatolian Shepherd,None,False,Bicolor, ,Adult,Male,Large,Long,True,True,False,True,True,True,None,['friendly'],Baylor,adopted,08/08/2020 14:35,21/07/2020 15:25
+Mixed Breed,None,False,None, ,Adult,Female,Medium,None,True,False,False,False,None,None,None,[],SADIE,adoptable,21/07/2020 15:51,21/07/2020 15:51
+Redbone Coonhound,None,True,Red / Chestnut / Orange, ,Adult,Male,Large,Short,True,True,False,True,None,True,False,[],Red,adopted,04/08/2020 03:09,21/07/2020 15:57
+Rat Terrier,Hound,True,White / Cream, ,Baby,Female,Medium,Short,False,True,False,True,True,True,None,[],Chiquita,adopted,03/08/2020 04:31,21/07/2020 15:59
+Border Collie,Australian Shepherd,True,Black, ,Baby,Female,Medium,Long,True,False,False,True,True,True,None,[],Betty,adopted,23/07/2020 23:53,21/07/2020 19:58
+Boxer,None,True,None, ,Senior,Male,Large,Short,True,True,False,True,True,True,True,"['happy', 'loving']",Buster,adoptable,21/07/2020 15:10,21/07/2020 15:10
+Treeing Walker Coonhound,None,True,Tricolor (Brown, & White),Baby,Male,Small,Short,False,False,False,False,None,True,None,[],Dyson,adopted,21/07/2020 17:28,21/07/2020 13:55
+Beagle,Chihuahua,True,Black, ,Adult,Male,Small,Short,True,False,False,True,True,True,None,[],Panda-PENDING,adopted,25/07/2020 14:04,21/07/2020 18:09
+Chihuahua,None,True,None, ,Young,Female,Medium,None,True,False,False,False,None,None,None,[],Gretta,adoptable,21/07/2020 17:22,21/07/2020 17:22
+Shepherd,None,False,Black, ,Adult,Male,Medium,Medium,True,False,False,True,None,None,None,[],Squid,adopted,27/07/2020 04:07,21/07/2020 18:37
+Terrier,None,True,Brown / Chocolate, ,Young,Female,Medium,Short,True,False,False,True,None,True,None,[],Pella,adopted,03/08/2020 13:34,21/07/2020 19:04
+Black Labrador Retriever,Great Dane,True,Black, ,Young,Male,Large,Short,True,True,False,True,True,True,True,[],Bolt,adopted,23/07/2020 20:56,21/07/2020 19:41
+Terrier,None,True,Black, ,Baby,Female,Medium,Short,False,False,False,True,None,True,None,[],Rainbow-pending,adopted,14/08/2020 17:41,21/07/2020 15:36
+Cocker Spaniel,Labrador Retriever,True,None, ,Baby,Female,Medium,None,True,False,False,True,None,None,None,[],"Loulou, Momo and Yoyo",adopted,25/07/2020 14:39,21/07/2020 12:56
+Pomeranian,None,False,Red / Chestnut / Orange, ,Adult,Female,Small,Medium,True,True,False,True,True,True,None,[],Mrs Brown,adopted,09/08/2020 20:30,21/07/2020 14:53
+Mixed Breed,None,False,Black, ,Adult,Female,Medium,Short,True,False,False,True,True,None,False,[],Brandi,adoptable,21/07/2020 15:14,21/07/2020 15:14
+Mixed Breed,None,True,None, ,Adult,Female,Medium,None,False,False,True,False,None,None,None,[],Chica,adoptable,21/07/2020 17:58,21/07/2020 17:58
+Mixed Breed,None,True,None, ,Adult,Female,Medium,Medium,True,False,False,True,True,True,None,[],Claire,adopted,01/08/2020 14:29,21/07/2020 17:09
+Australian Shepherd,Plott Hound,True,None, ,Baby,Male,Large,None,True,False,False,True,True,True,True,[],Aussie/Plott Mix M#1,adopted,22/07/2020 16:46,21/07/2020 15:21
+German Shepherd Dog,None,False,Black, ,Young,Female,Medium,Short,True,True,False,True,False,True,False,[],Sadie,adoptable,31/07/2020 15:29,21/07/2020 20:33
+Shepherd,Beagle,True,None, ,Young,Female,Medium,None,False,False,False,True,None,None,None,[],Sky,adopted,22/07/2020 14:19,21/07/2020 20:54
+Pit Bull Terrier,None,True,Brindle, ,Baby,Male,Medium,Short,True,False,False,True,None,None,None,"['Playful', 'Energetic', 'Active']",Rico,adopted,22/07/2020 20:58,21/07/2020 13:56
+Pit Bull Terrier,None,False,None, ,Baby,Male,Medium,None,False,False,False,False,None,None,None,[],Cupcake,adoptable,21/07/2020 10:16,21/07/2020 10:16
+Maltese,None,True,None, ,Baby,Female,Medium,None,False,False,False,False,True,True,True,[],Poppy,adopted,21/07/2020 17:43,21/07/2020 17:43
+Beagle,None,False,None, ,Senior,Male,Medium,None,True,False,False,False,None,True,None,[],Woody Guthrie &#34;Gus&#34;,adopted,21/07/2020 17:39,21/07/2020 17:39
+Husky,Terrier,True,None, ,Adult,Female,Medium,Short,False,False,False,False,False,None,None,[],Montana,adoptable,21/07/2020 18:35,21/07/2020 18:35
+Labrador Retriever,None,False,Black, ,Young,Male,Large,None,False,True,False,True,True,True,None,[],Moose #418,adopted,23/07/2020 13:54,21/07/2020 18:46
+Mixed Breed,None,False,Brindle, ,Adult,Male,Large,Short,True,True,False,True,None,None,None,[],Binx,adopted,28/07/2020 18:32,21/07/2020 14:28
+Schnauzer,None,True,Black, ,Adult,Male,Small,None,True,True,False,True,True,True,None,[],Ollie,adopted,27/07/2020 13:37,21/07/2020 13:37
+Chihuahua,None,True,None, ,Adult,Female,Small,None,True,True,False,True,None,True,True,[],* Gracie - HOLD,adoptable,21/07/2020 11:05,21/07/2020 11:05
+Chiweenie,None,False,None, ,Adult,Female,Small,Short,True,False,False,True,None,True,True,[],Emma,adopted,17/08/2020 17:20,21/07/2020 17:51
+Mixed Breed,None,False,Black, ,Adult,Male,Medium,None,False,False,False,True,None,None,None,[],Bobbi,adoptable,21/07/2020 15:35,21/07/2020 15:35
+Belgian Shepherd / Malinois,Border Collie,True,None, ,Young,Female,Medium,Medium,True,True,False,True,True,True,True,['Nice Girl'],Mai,adopted,26/07/2020 18:40,21/07/2020 18:54
+Terrier,Collie,True,None, ,Baby,Male,Large,Medium,False,False,False,False,None,None,None,[],Timber(Pending),adoptable,21/07/2020 15:11,21/07/2020 15:11
+Australian Cattle Dog / Blue Heeler,Husky,True,Gray / Blue / Silver, ,Young,Female,Medium,Short,False,False,False,False,None,True,None,"['Friendly', 'Outgoing', 'Smart']",Kaitlin,adoptable,21/07/2020 20:07,21/07/2020 20:07
+Chihuahua,None,False,Black, ,Adult,Male,Small,Short,True,False,False,True,None,None,None,[],Nugget,adopted,21/07/2020 21:45,21/07/2020 18:21
+Pit Bull Terrier,None,False,None, ,Adult,Female,Large,None,False,False,False,False,None,None,None,[],TUNDRA,adoptable,21/07/2020 17:51,21/07/2020 17:51
+Labrador Retriever,None,True,Black, ,Baby,Female,Large,None,True,False,False,True,None,None,None,[],Monkey,adopted,25/07/2020 14:32,21/07/2020 19:01
+Chihuahua,None,False,None, ,Adult,Female,Small,None,False,False,False,False,None,None,None,[],Bambi,adoptable,21/07/2020 10:28,21/07/2020 10:28
+German Shepherd Dog,None,True,Bicolor, ,Adult,Female,Medium,Short,False,False,False,False,None,None,None,"['Playful', 'energetic']",Zinfandel,adopted,26/07/2020 15:13,21/07/2020 19:32
+Shepherd,Mixed Breed,True,None, ,Young,Female,Medium,Short,True,False,False,True,None,True,True,"['shy', 'loving', 'playful dog friendly']",Spicy,adopted,23/07/2020 17:41,21/07/2020 12:09
+Mixed Breed,None,False,Yellow / Tan / Blond / Fawn, ,Adult,Male,Medium,None,True,False,False,True,None,None,None,"['Cat Free Home', 'Older Children Preferred']",Lobo,adoptable,21/07/2020 20:45,21/07/2020 20:45
+Border Terrier,Wirehaired Terrier,True,Yellow / Tan / Blond / Fawn, ,Young,Male,Small,Wire,False,True,True,True,None,True,None,[],Henry,adopted,27/07/2020 22:14,21/07/2020 17:46
+Pit Bull Terrier,Mixed Breed,True,Black, ,Adult,Female,Medium,Medium,True,True,False,True,True,True,None,"['Loving', 'Forgiving', 'Sweet', 'Gentle']",Grace,adoptable,21/07/2020 15:38,21/07/2020 15:38
+Treeing Walker Coonhound,None,True,Tricolor (Brown, & White),Baby,Male,Small,Short,False,False,False,False,None,True,None,[],Roomba,adopted,21/07/2020 17:28,21/07/2020 13:58
+Hound,None,False,None, ,Adult,Female,Medium,Short,True,True,False,True,None,True,None,[],Jenn,adopted,25/07/2020 14:03,21/07/2020 15:20
+Beagle,None,False,Tricolor (Brown, & White),Adult,Male,Small,Short,True,False,False,True,None,True,None,[],Pinto,adopted,23/07/2020 12:58,21/07/2020 20:32
+Mixed Breed,None,False,Black, ,Adult,Female,Medium,None,True,False,False,True,None,None,None,"['Dog friendly', 'Energetic', 'No Cats']",Meg 19377,adoptable,21/07/2020 20:00,21/07/2020 20:00
+Chihuahua,Terrier,True,None, ,Senior,Male,Small,None,False,False,False,True,None,None,None,[],Charlie,adoptable,21/07/2020 11:05,21/07/2020 11:05
+Coonhound,Hound,True,Tricolor (Brown, & White),Baby,Male,Medium,Short,True,True,False,True,True,True,True,"['Active', 'Loving  playful']",Walker,adopted,27/07/2020 09:42,21/07/2020 11:43
+Terrier,None,True,Gray / Blue / Silver, ,Baby,Male,Small,Short,False,False,False,False,True,True,True,[],KNOX,adopted,30/07/2020 18:05,21/07/2020 17:41
+Pit Bull Terrier,None,True,None, ,Young,Male,Large,Short,True,True,False,True,True,None,False,[],Kool-aid Man,adopted,03/08/2020 14:40,21/07/2020 19:36
+Labrador Retriever,None,True,Apricot / Beige, ,Adult,Female,Large,Short,True,False,False,True,None,True,None,[],Amber,adopted,03/08/2020 15:31,21/07/2020 18:28
+Shepherd,Labrador Retriever,True,Black, ,Baby,Male,Medium,Short,True,False,False,True,True,True,None,[],Bass,adopted,22/07/2020 22:11,21/07/2020 13:23
+Border Collie,None,True,None, ,Senior,Male,Medium,None,True,True,False,True,True,True,None,[],Rey Rojo,adopted,21/07/2020 17:12,21/07/2020 17:12
+Lhasa Apso,None,True,None, ,Adult,Female,Small,None,True,False,False,True,False,True,None,[],Elsa,adopted,24/07/2020 15:01,21/07/2020 20:14
+Mixed Breed,None,True,None, ,Adult,Female,Medium,Medium,True,False,False,True,True,True,None,[],Cleo,adoptable,21/07/2020 17:10,21/07/2020 17:10
+Pug,None,False,Black, ,Baby,Male,Medium,Medium,True,True,False,True,True,True,True,[],Oreo,adoptable,21/07/2020 20:47,21/07/2020 20:47
+Mixed Breed,None,True,Bicolor, ,Young,Male,Large,Medium,True,False,False,True,None,None,None,[],Miller,adopted,22/07/2020 19:25,21/07/2020 17:08
+Mixed Breed,None,False,Red / Chestnut / Orange, ,Young,Male,Medium,Short,True,True,False,True,True,True,None,[],Stark,adoptable,21/07/2020 20:25,21/07/2020 20:25
+Mixed Breed,None,True,White / Cream, ,Young,Male,Medium,Short,True,False,False,True,True,True,True,[],Milo,adopted,08/08/2020 19:21,21/07/2020 18:08
+Chihuahua,None,False,None, ,Adult,Female,Small,None,False,False,False,False,None,None,None,[],Chiquita,adoptable,21/07/2020 19:04,21/07/2020 19:04
+Retriever,None,True,None, ,Adult,Male,Large,Medium,True,True,False,True,None,None,None,[],Jester,adopted,06/08/2020 18:18,21/07/2020 15:31
+Pit Bull Terrier,None,True,None, ,Baby,Female,Large,None,True,False,False,False,True,True,None,[],Esmerelda,adopted,21/07/2020 15:13,21/07/2020 15:13
+Beagle,None,True,Brown / Chocolate, ,Young,Male,Medium,Short,False,True,False,True,True,True,True,[],Scout,adopted,29/07/2020 19:04,21/07/2020 19:56
+Labrador Retriever,None,True,Bicolor, ,Baby,Female,Medium,Short,False,False,False,True,True,True,True,[],Cricket,adopted,22/07/2020 15:30,21/07/2020 19:05
+German Shepherd Dog,None,True,Black, ,Adult,Male,Large,Medium,True,True,False,True,None,True,None,"['low key', 'loving nature', 'likely housebroken']",Izzy von Iserlohn,adopted,24/07/2020 03:35,21/07/2020 19:13
+Plott Hound,Labrador Retriever,True,Brindle, ,Young,Male,Medium,Short,True,True,False,True,True,True,None,['active loving playful'],Ziggy,adopted,24/07/2020 17:01,21/07/2020 15:52
+Basenji,None,False,None, ,Adult,Female,Medium,None,True,True,False,True,True,True,True,[],Maggie,adopted,30/07/2020 19:37,21/07/2020 20:01
+Mixed Breed,None,True,Tricolor (Brown, & White),Baby,Female,Medium,None,False,False,False,True,True,True,True,[],Adelle,adoptable,06/08/2020 18:39,21/07/2020 13:40
+Shepherd,None,True,White / Cream, ,Young,Male,Medium,Short,True,False,False,True,None,None,None,[],Tide,adopted,27/07/2020 23:55,21/07/2020 18:39
+Pomeranian,None,False,White / Cream, ,Senior,Female,Small,Long,True,False,False,True,None,True,True,[],Gidget **READ ENTIRE DESCRIPTION**,adoptable,21/07/2020 17:04,21/07/2020 17:04
+Siberian Husky,None,True,None, ,Adult,Male,Medium,None,True,False,False,True,None,None,None,[],Ivan,adopted,24/07/2020 19:36,21/07/2020 16:04
+Beagle,Basset Hound,True,Brown / Chocolate, ,Adult,Male,Small,Short,True,False,False,True,None,None,None,[],Cuttlefish,adopted,27/07/2020 04:07,21/07/2020 18:25
+Chihuahua,None,True,None, ,Adult,Female,Small,None,True,True,False,True,True,True,True,[],Sulu&amp;Norris,adopted,21/07/2020 17:26,21/07/2020 17:26
+Glen of Imaal Terrier,None,True,None, ,Adult,Female,Small,None,True,True,False,True,True,True,None,[],Ellie,adopted,27/07/2020 13:37,21/07/2020 13:37
+Husky,None,True,None, ,Young,Female,Medium,Short,True,False,False,True,None,None,None,[],Laika,adopted,22/07/2020 17:57,21/07/2020 15:21
+Chihuahua,Terrier,True,Red / Chestnut / Orange, ,Adult,Male,Small,Short,True,False,False,True,True,True,True,[],Spunky,adopted,04/08/2020 21:41,21/07/2020 17:45
+Labrador Retriever,None,True,Black, ,Baby,Female,Large,None,True,False,False,True,None,None,None,[],Mabel,adopted,25/07/2020 15:24,21/07/2020 18:57
+Terrier,None,True,Brindle, ,Young,Male,Large,Short,True,True,False,True,None,True,None,[],Miles,adopted,18/08/2020 23:15,21/07/2020 20:14
+Dachshund,None,False,Black, ,Adult,Male,Small,Long,True,True,False,True,True,True,None,[],Dexter,adopted,14/08/2020 20:51,21/07/2020 15:32
+Cairn Terrier,Yorkshire Terrier,True,None, ,Senior,Male,Small,None,True,True,False,True,True,True,True,[],SIMON,adopted,07/08/2020 15:55,21/07/2020 19:51
+Cattle Dog,None,False,Merle (Blue), ,Baby,Male,Medium,Medium,False,False,False,False,None,None,None,[],Sawyer,adoptable,12/08/2020 15:50,21/07/2020 20:18
+Brittany Spaniel,None,False,Red / Chestnut / Orange, ,Senior,Male,Medium,Medium,False,True,False,True,True,True,True,[],Zeke,adopted,11/08/2020 16:18,21/07/2020 14:46
+Boxer,None,True,None, ,Baby,Female,Medium,None,True,False,False,True,None,True,None,[],Shirley,adoptable,21/07/2020 13:46,21/07/2020 13:46
+Dachshund,Terrier,True,None, ,Young,Female,Small,None,True,True,False,True,True,True,True,[],Gracie,adopted,21/07/2020 20:45,21/07/2020 20:45
+Terrier,None,True,None, ,Adult,Male,Small,None,True,False,False,True,None,True,False,[],201011 Frasier,adopted,23/07/2020 20:02,21/07/2020 14:57
+Chihuahua,None,True,None, ,Young,Male,Small,None,True,False,False,True,None,True,None,[],Brady,adoptable,21/07/2020 17:55,21/07/2020 17:55
+Pit Bull Terrier,None,False,None, ,Young,Male,Large,None,True,False,False,False,None,None,None,[],BOOMERANG,adoptable,21/07/2020 13:50,21/07/2020 13:50
+Great Pyrenees,Anatolian Shepherd,True,Brown / Chocolate, ,Baby,Male,Large,Medium,True,True,False,True,True,True,None,[],Silas (Avail. July 30),adopted,01/08/2020 16:01,21/07/2020 14:37
+Beagle,None,True,None, ,Young,Female,Medium,None,True,True,False,True,True,True,True,[],Emmy Lou,adopted,21/07/2020 20:47,21/07/2020 20:47
+Yorkshire Terrier,None,True,None, ,Adult,Female,Small,None,True,False,False,True,True,True,True,[],Leisel,adopted,21/07/2020 18:30,21/07/2020 15:09
+Husky,Pit Bull Terrier,True,Brown / Chocolate, ,Young,Male,Large,Medium,True,True,False,True,True,True,None,[],Tate,adoptable,21/07/2020 18:20,21/07/2020 18:20
+Pit Bull Terrier,None,False,Bicolor, ,Adult,Female,Medium,Short,False,False,False,False,None,None,None,[],LEXI,adopted,23/07/2020 20:58,21/07/2020 20:08
+Chihuahua,None,False,None, ,Adult,Male,Small,None,True,True,False,True,False,True,True,[],Davey,adopted,21/07/2020 20:33,21/07/2020 20:33
+Border Collie,None,False,Black, ,Baby,Female,Medium,Medium,False,False,False,True,None,None,None,[],River,adopted,27/07/2020 18:23,21/07/2020 18:51
+Hound,Labrador Retriever,True,Tricolor (Brown, & White),Baby,Male,Large,Short,True,False,False,True,True,True,True,[],Twizzler,adopted,27/07/2020 23:39,21/07/2020 20:43
+Hound,None,False,Brindle, ,Baby,Male,Large,Short,True,True,False,True,None,True,True,[],Tony,adopted,14/08/2020 21:28,21/07/2020 17:28
+Pit Bull Terrier,None,False,None, ,Adult,Female,Large,None,True,False,False,False,None,None,None,[],2006-0616 Lexi,adoptable,21/07/2020 13:55,21/07/2020 13:55
+Dachshund,Mixed Breed,True,None, ,Senior,Male,Medium,Medium,True,True,False,True,None,True,False,[],Dave,adoptable,14/08/2020 00:32,21/07/2020 18:00
+Labrador Retriever,Mixed Breed,True,None, ,Adult,Female,Large,None,True,False,False,False,None,None,None,[],Tiana,adoptable,21/07/2020 13:06,21/07/2020 13:06
+Carolina Dog,Shepherd,True,None, ,Adult,Male,Medium,None,False,False,False,False,None,None,None,[],Kyle,adoptable,21/07/2020 19:00,21/07/2020 19:00
+Chihuahua,Terrier,True,None, ,Young,Female,Small,None,True,True,False,False,None,True,True,[],Diva,adopted,22/07/2020 15:46,21/07/2020 13:40
+Labrador Retriever,Rhodesian Ridgeback,True,Red / Chestnut / Orange, ,Baby,Male,Medium,Short,True,False,False,True,True,True,True,[],Randy,adopted,25/07/2020 19:20,21/07/2020 12:28
+Husky,Labrador Retriever,True,None, ,Young,Male,Large,None,True,True,False,True,True,True,None,[],Kolbi,adopted,21/07/2020 11:05,21/07/2020 11:05
+Beagle,None,True,None, ,Adult,Male,Medium,None,False,False,False,False,None,None,None,[],Pipsy,adoptable,21/07/2020 20:00,21/07/2020 20:00
+Beagle,Mixed Breed,True,None, ,Adult,Female,Medium,None,True,False,False,False,None,None,None,[],Janette,adoptable,21/07/2020 14:06,21/07/2020 14:06
+Mixed Breed,None,False,Yellow / Tan / Blond / Fawn, ,Young,Male,Small,Short,True,False,False,True,None,None,None,[],Ruby Tuesday,adopted,21/07/2020 17:20,21/07/2020 17:20
+German Shepherd Dog,None,False,Black, ,Young,Female,Large,Long,True,False,False,True,None,None,None,[],*Luna von Lorch,adopted,27/07/2020 19:00,21/07/2020 19:30
+Australian Cattle Dog / Blue Heeler,Labrador Retriever,True,None, ,Adult,Female,Medium,None,True,True,False,False,True,True,True,[],ROSIE - $95 (See Video),adopted,07/08/2020 01:13,21/07/2020 20:46
+Labrador Retriever,Pointer,True,Black, ,Baby,Male,Large,Short,True,True,False,True,True,True,False,[],George,adopted,23/07/2020 17:34,21/07/2020 14:40
+Siberian Husky,Husky,True,Tricolor (Brown, & White),Adult,Male,Medium,None,True,True,False,True,False,True,False,[],Sam Husky,adoptable,21/07/2020 18:45,21/07/2020 18:45
+Border Collie,None,True,None, ,Adult,Male,Medium,None,True,False,False,False,None,None,None,[],Howie courtesy listing,adoptable,21/07/2020 10:35,21/07/2020 10:35
+German Shepherd Dog,None,True,None, ,Adult,Female,Medium,None,True,False,False,False,None,False,None,[],Paris,adoptable,21/07/2020 18:15,21/07/2020 18:15
+American Staffordshire Terrier,None,True,Brown / Chocolate, ,Adult,Female,Large,Short,True,True,False,True,True,None,None,"['Playful', 'Loving']",Layla,adopted,07/08/2020 17:13,21/07/2020 19:39
+Husky,Hound,True,None, ,Adult,Female,Medium,None,True,True,False,True,True,True,None,[],Mia (husky),adopted,21/07/2020 11:20,21/07/2020 11:20
+German Shepherd Dog,None,True,Black, ,Young,Male,Medium,Medium,True,False,False,True,None,None,None,[],Noah,adopted,02/08/2020 21:09,21/07/2020 13:36
+Mastiff,Pit Bull Terrier,True,None, ,Young,Male,Large,None,True,True,False,True,None,False,False,[],Reece,adoptable,21/07/2020 18:21,21/07/2020 18:21
+Retriever,Terrier,True,Brown / Chocolate, ,Adult,Female,Medium,Medium,True,False,False,False,None,None,None,[],Hershey,adoptable,21/07/2020 10:45,21/07/2020 10:45
+Pit Bull Terrier,None,False,Black, ,Adult,Male,Medium,None,True,False,False,True,None,None,None,"['Fence Preferred', 'Good with older children twelve positive', 'Potty trained', 'Walks well on a leash']",Hopper,adoptable,21/07/2020 15:15,21/07/2020 15:15
+Mixed Breed,None,True,Brindle, ,Adult,Male,Medium,Short,True,False,False,True,None,None,False,[],Leo,adopted,23/07/2020 15:29,21/07/2020 15:34
+Vizsla,None,False,Red / Chestnut / Orange, ,Adult,Male,Large,Short,True,True,False,True,True,True,True,[],Red,adoptable,21/07/2020 17:24,21/07/2020 17:24
+Maltese,None,True,None, ,Baby,Female,Medium,None,False,False,False,False,True,True,True,[],Fern,adopted,21/07/2020 17:43,21/07/2020 17:43
+Mixed Breed,None,True,White / Cream, ,Baby,Male,Medium,Medium,False,False,False,False,None,None,None,[],Moscato,adopted,31/07/2020 17:43,21/07/2020 20:12
+Schnauzer,Wirehaired Terrier,True,Black, ,Young,Female,Medium,Short,True,True,False,True,True,True,True,[],Tippy,adopted,22/07/2020 22:30,21/07/2020 20:54
+Mixed Breed,None,False,Black, ,Young,Male,Large,Short,True,False,False,True,None,None,None,[],Banksy,adoptable,21/07/2020 15:23,21/07/2020 15:23
+Miniature Pinscher,None,False,Bicolor, ,Young,Female,Small,Short,True,True,False,True,None,None,True,[],Gracie,adopted,04/08/2020 04:44,21/07/2020 18:00
+Pit Bull Terrier,None,False,None, ,Baby,Male,Medium,None,True,False,False,False,None,None,None,[],Tucker (4110),adopted,24/07/2020 18:21,21/07/2020 15:27
+Terrier,None,False,Brindle, ,Young,Female,Medium,Short,True,True,False,True,True,True,False,[],Lulu (Best Dog Ever),adoptable,31/07/2020 18:39,21/07/2020 18:43
+Hound,None,True,Brown / Chocolate, ,Baby,Male,Medium,Short,True,False,False,True,True,True,True,[],Elsa in NH,adopted,24/07/2020 18:11,21/07/2020 15:25
+Dachshund,None,True,Golden, ,Adult,Female,Medium,Short,True,True,False,True,None,False,None,"['Smart', 'Cuddler', 'Sweet']",Coco,adoptable,21/07/2020 19:46,21/07/2020 19:46
+Labrador Retriever,None,True,White / Cream, ,Adult,Male,Medium,Medium,True,True,False,True,True,True,None,[],Benny,adopted,08/08/2020 14:35,22/07/2020 14:27
+Anatolian Shepherd,Great Pyrenees,True,None, ,Adult,Male,Large,None,False,True,False,True,True,True,None,[],Tonka,adopted,21/07/2020 15:29,21/07/2020 15:29
+Dachshund,None,False,Black, ,Adult,Male,Small,Long,True,True,False,True,True,True,None,[],Buddy,adoptable,14/08/2020 20:59,21/07/2020 15:34
+Beagle,Mixed Breed,True,None, ,Adult,Female,Small,None,False,False,False,False,None,None,None,[],Twyla,adoptable,21/07/2020 19:06,21/07/2020 19:06
+Australian Cattle Dog / Blue Heeler,Australian Shepherd,True,Tricolor (Brown, & White),Young,Female,Medium,Short,False,False,False,False,None,True,None,"['Friendly', 'submissive', 'outgoing']",Kara,adopted,24/07/2020 17:35,21/07/2020 20:21
+Chihuahua,None,False,Black, ,Young,Female,Small,Short,False,False,False,True,None,None,None,[],Pacey,adopted,29/07/2020 16:46,21/07/2020 17:44
+Boxer,American Bulldog,True,None, ,Adult,Male,Large,None,True,True,True,True,None,True,None,[],Charlie - STARTING HEARTWORM TREATMENT SOON!!,adoptable,21/07/2020 15:22,21/07/2020 15:22
+German Shepherd Dog,None,True,Yellow / Tan / Blond / Fawn, ,Young,Female,Medium,Short,True,True,False,True,True,True,True,[],Asha (Great Family Dog),adopted,26/07/2020 21:13,21/07/2020 14:07
+Pit Bull Terrier,Shepherd,True,None, ,Young,Female,Medium,None,True,False,False,True,True,True,None,[],Ahe,adopted,21/07/2020 15:57,21/07/2020 15:57
+Border Collie,None,True,None, ,Baby,Female,Medium,None,True,True,False,True,None,None,None,[],Madonna,adopted,21/07/2020 12:54,21/07/2020 12:54
+Australian Shepherd,None,False,Tricolor (Brown, & White),Young,Female,Medium,Medium,True,True,False,True,True,True,None,[],Norah,adopted,30/07/2020 13:58,21/07/2020 19:09
+Plott Hound,Hound,True,None, ,Adult,Male,Medium,None,False,False,False,False,None,None,None,[],Lawson,adopted,30/07/2020 16:57,21/07/2020 17:21
+Mixed Breed,Hound,True,Black, ,Baby,Female,Medium,Short,True,False,False,True,True,True,True,[],Taffy,adopted,22/07/2020 19:58,21/07/2020 13:55
+Labrador Retriever,None,False,Yellow / Tan / Blond / Fawn, ,Baby,Male,Medium,Short,True,False,False,True,True,True,None,[],Astro,adopted,30/07/2020 02:22,21/07/2020 18:08
+Corgi,None,True,Apricot / Beige, ,Senior,Male,Medium,Medium,True,True,True,True,True,True,None,"['Loving', 'Sweet', 'Happy', 'Playful', 'Outgoing', 'Social', 'Friendly', 'Nice']",Fox,adopted,31/07/2020 03:34,21/07/2020 20:15
+Boxer,None,True,Brindle, ,Young,Female,Medium,Short,True,False,False,True,None,None,None,[],Donna,adopted,30/07/2020 18:06,21/07/2020 18:18
+Corgi,Basset Hound,True,Black, ,Adult,Male,Medium,Short,True,True,False,True,False,True,False,[],Tubby,adopted,08/08/2020 10:54,21/07/2020 16:00
+American Bulldog,None,False,White / Cream, ,Adult,Female,Small,None,False,False,False,True,None,None,None,[],Stella,adoptable,21/07/2020 15:20,21/07/2020 15:20
+German Shepherd Dog,None,True,Bicolor, ,Adult,Male,Large,Long,True,False,False,True,True,True,True,[],Shep,adopted,02/08/2020 00:38,21/07/2020 20:11
+Hound,None,True,None, ,Baby,Male,Medium,Short,False,False,False,True,True,True,True,[],Riddler,adopted,04/08/2020 14:09,21/07/2020 13:49
+English Pointer,None,True,Black, ,Adult,Female,Medium,Short,True,False,False,True,None,None,None,[],EMORI,adopted,26/07/2020 01:03,21/07/2020 20:52
+Jack Russell Terrier,Chihuahua,True,Tricolor (Brown, & White),Adult,Male,Small,Short,True,False,False,True,None,None,None,[],Barracuda,adopted,23/07/2020 02:34,21/07/2020 18:17
+Terrier,None,True,None, ,Adult,Male,Small,None,True,False,False,True,None,True,None,[],201011 Kenny,adopted,21/07/2020 17:13,21/07/2020 14:57
+Pointer,None,True,Harlequin, ,Baby,Female,Medium,Short,True,False,False,True,None,True,None,[],Sammie,adopted,09/08/2020 14:15,21/07/2020 17:55
+Cattle Dog,Catahoula Leopard Dog,True,Black, ,Baby,Male,Large,Short,True,False,False,True,None,None,None,[],Sampson,adoptable,21/07/2020 19:15,21/07/2020 19:15
+Boxer,None,False,None, ,Adult,Female,Medium,None,False,False,False,False,None,None,None,[],Taryn,adopted,30/07/2020 16:57,21/07/2020 17:21
+Boxer,American Staffordshire Terrier,True,Brown / Chocolate, ,Adult,Female,Medium,Short,False,True,False,True,False,False,False,[],Mocha,adoptable,21/07/2020 20:21,21/07/2020 20:21
+Terrier,None,True,Brown / Chocolate, ,Baby,Male,Medium,Short,True,False,False,True,True,True,True,[],Pixar#1m,adopted,25/07/2020 17:35,21/07/2020 20:39
+Poodle,None,False,None, ,Senior,Female,Small,None,True,True,False,True,True,True,True,[],Holly,adopted,21/07/2020 12:23,21/07/2020 12:23
+German Shepherd Dog,None,True,Black, ,Adult,Female,Medium,Short,True,False,False,True,None,None,None,[],Carmen,adopted,10/08/2020 18:21,21/07/2020 19:02
+Husky,None,True,None, ,Young,Male,Medium,None,False,False,False,False,None,None,None,[],*Rocket* Puppy,adopted,21/07/2020 19:43,21/07/2020 19:43
+Pit Bull Terrier,None,False,None, ,Adult,Female,Medium,None,False,False,False,False,None,None,None,[],Rose (4125),adopted,13/08/2020 17:39,21/07/2020 15:40
+Hound,Pit Bull Terrier,True,White / Cream, ,Adult,Male,Medium,None,True,False,False,True,None,None,None,"['Friendly', 'Heartworm positive under treatment call shelter for more info', 'Jumps Fences', 'Microchipped', 'Neutered', 'Plays well with other dogs', 'Walks Well On A Leash']",Hunter,adoptable,21/07/2020 20:10,21/07/2020 20:10
+Labrador Retriever,None,True,Black, ,Baby,Male,Medium,Medium,True,False,False,True,True,True,True,[],Benny,adopted,24/07/2020 11:33,21/07/2020 18:21
+Plott Hound,None,True,Brindle, ,Young,Male,Medium,Short,True,False,False,True,None,True,None,[],Peanut Butter  (no apartments),adoptable,21/07/2020 20:07,21/07/2020 20:07
+Hound,None,True,Tricolor (Brown, & White),Baby,Male,Medium,Short,False,True,False,True,True,True,True,[],Julio,adopted,22/07/2020 15:30,21/07/2020 19:12
+Pug,None,False,Yellow / Tan / Blond / Fawn, ,Adult,Male,Medium,Medium,True,True,False,True,True,True,True,[],Bisbee,adopted,05/08/2020 21:08,21/07/2020 20:36
+Hound,None,True,Black, ,Adult,Male,Medium,Short,True,False,False,True,False,True,None,[],Bubba,adopted,04/08/2020 21:18,21/07/2020 14:23
+Mixed Breed,None,True,Brindle, ,Young,Female,Medium,Short,True,True,True,True,None,True,None,['Sweet girl'],Scarlett,adoptable,21/07/2020 14:58,21/07/2020 14:58
+Pug,Dachshund,True,None, ,Adult,Male,Small,Short,True,True,False,True,False,False,False,[],Buddy,adoptable,21/07/2020 14:55,21/07/2020 14:55
+Plott Hound,None,False,Brown / Chocolate, ,Baby,Female,Medium,None,True,False,False,True,None,None,None,[],Charity,adoptable,21/07/2020 15:45,21/07/2020 15:45
+Labrador Retriever,None,True,None, ,Young,Female,Medium,None,True,False,False,False,None,None,None,[],Sahara,adopted,21/07/2020 19:59,21/07/2020 19:59
+Labrador Retriever,Rhodesian Ridgeback,True,Red / Chestnut / Orange, ,Baby,Female,Medium,Short,True,False,False,True,True,True,True,[],Ruby,adopted,25/07/2020 19:20,21/07/2020 12:35
+Labrador Retriever,None,True,Black, ,Adult,Male,Large,Short,True,False,False,True,None,None,None,[],Oliver,adopted,24/07/2020 15:24,21/07/2020 17:09
+Chihuahua,None,True,None, ,Young,Female,Small,None,False,False,False,True,False,None,False,[],Arbella,adopted,28/07/2020 12:33,21/07/2020 18:09
+Labrador Retriever,Redbone Coonhound,True,Black, ,Baby,Male,Medium,Short,True,False,False,True,True,True,True,[],Morgan - Sweet Puppy Breath,adopted,25/07/2020 17:54,21/07/2020 18:43
+Husky,None,True,None, ,Young,Female,Medium,None,True,False,False,False,None,None,None,[],Blink,adopted,26/07/2020 05:59,21/07/2020 18:24
+Black Labrador Retriever,None,True,None, ,Baby,Female,Large,None,True,False,False,True,True,True,True,[],Black Lab Mix F#1,adopted,22/07/2020 16:46,21/07/2020 15:13
+Australian Cattle Dog / Blue Heeler,None,True,None, ,Young,Female,Medium,Short,True,False,False,True,True,True,None,[],Addison,adopted,26/07/2020 19:35,21/07/2020 17:52
+Saint Bernard,None,True,None, ,Baby,Female,Extra Large,None,True,False,False,True,True,True,True,[],Peach Ring,adopted,21/07/2020 17:12,21/07/2020 17:12
+Chihuahua,Terrier,True,None, ,Adult,Male,Small,Short,True,False,False,True,None,True,None,[],Kujo,adopted,25/07/2020 20:47,21/07/2020 18:23
+Cattle Dog,Catahoula Leopard Dog,True,Black, ,Baby,Female,Large,Short,True,False,False,True,None,None,None,[],Sassy,adoptable,21/07/2020 19:13,21/07/2020 19:13
+Beagle,None,False,Tricolor (Brown, & White),Adult,Female,Small,Short,True,False,False,True,None,True,None,[],Precious,adopted,22/07/2020 20:17,21/07/2020 20:30
+Terrier,None,True,White / Cream, ,Baby,Female,Medium,None,True,False,False,True,True,True,True,[],Pixar#2f,adopted,25/07/2020 17:35,21/07/2020 20:46
+Hound,Labrador Retriever,True,None, ,Adult,Male,Large,None,True,False,False,False,None,None,None,[],2007-1628 Hercules,adopted,25/07/2020 14:56,21/07/2020 13:41
+Basset Hound,Terrier,True,White / Cream, ,Adult,Male,Medium,Medium,True,True,False,True,True,True,True,"['friendly', 'good wth kids', 'good with dogs']",Devito,adopted,27/07/2020 16:55,21/07/2020 19:15
+Australian Cattle Dog / Blue Heeler,Shepherd,True,None, ,Baby,Female,Medium,None,False,False,False,False,True,True,None,[],Rylie,adopted,21/07/2020 20:29,21/07/2020 20:29
+Chinese Crested Dog,Poodle,True,None, ,Adult,Female,Medium,None,True,True,False,False,None,True,True,[],Honeybee,adopted,24/07/2020 19:51,21/07/2020 20:43
+Chihuahua,Dachshund,True,None, ,Adult,Male,Small,None,True,True,False,False,None,True,None,[],Lookie (Bear) D2274,adopted,21/07/2020 13:41,21/07/2020 13:41
+Hound,Pit Bull Terrier,True,None, ,Adult,Female,Medium,None,True,False,False,False,None,None,None,[],Trixie,adoptable,21/07/2020 18:06,21/07/2020 18:06
+American Bulldog,Boxer,True,None, ,Adult,Female,Large,None,True,False,False,True,None,None,None,[],BECKY,adopted,25/07/2020 21:02,21/07/2020 15:42
+Pit Bull Terrier,None,False,None, ,Adult,Male,Large,None,False,True,False,True,False,None,False,[],Roman,adoptable,21/07/2020 10:15,21/07/2020 10:15
+Boxer,None,True,Red / Chestnut / Orange, ,Young,Male,Medium,Short,True,True,False,True,True,True,True,[],Mac (Great Family Dog),adopted,26/07/2020 21:12,21/07/2020 18:51
+Hound,Coonhound,True,None, ,Baby,Female,Medium,Short,True,False,False,True,True,True,None,[],Persephone,adopted,22/07/2020 01:26,21/07/2020 14:05
+Miniature Pinscher,None,False,Brown / Chocolate, ,Senior,Male,Medium,None,True,False,False,True,None,True,None,"['loving', 'calm']",Pillsbury,adopted,11/08/2020 15:25,21/07/2020 15:31
+Pit Bull Terrier,Mixed Breed,True,None, ,Adult,Male,Medium,None,True,False,False,False,None,None,None,[],HORATIO,adoptable,21/07/2020 19:52,21/07/2020 19:52
+American Bulldog,Mixed Breed,True,None, ,Young,Male,Medium,None,True,False,False,False,None,None,None,[],REUBEN,adoptable,21/07/2020 18:51,21/07/2020 18:51
+German Shepherd Dog,Mixed Breed,True,None, ,Senior,Female,Medium,None,True,False,False,False,None,None,None,[],BRANDY,adoptable,21/07/2020 19:51,21/07/2020 19:51
+Chihuahua,Terrier,True,White / Cream, ,Senior,Female,Small,Medium,True,True,False,True,True,True,True,[],Rita,adopted,14/08/2020 23:34,21/07/2020 14:51
+German Shepherd Dog,Belgian Shepherd / Malinois,True,None, ,Young,Male,Large,None,False,False,False,False,True,True,None,[],Berry,adopted,07/08/2020 02:54,21/07/2020 14:53
+Mixed Breed,None,False,None, ,Adult,Female,Medium,None,False,False,False,False,None,None,None,[],EGGROLL,adopted,06/08/2020 15:21,21/07/2020 18:51
+Great Pyrenees,None,False,None, ,Adult,Female,Large,None,True,True,False,False,True,True,True,[],Frankie,adopted,28/07/2020 18:14,21/07/2020 12:21
+Mixed Breed,None,True,None, ,Adult,Female,Medium,Short,True,False,False,True,None,None,None,[],Deja Vu,adopted,04/08/2020 20:02,21/07/2020 19:45
+Hound,Black Mouth Cur,True,Red / Chestnut / Orange, ,Adult,Male,Medium,None,True,False,False,True,None,None,None,"['Friendly', 'Heartworm positive under treatment call shelter for more info', 'Microchipped', 'Neutered', 'Walks Well On A Leash']",Carter,adoptable,21/07/2020 20:10,21/07/2020 20:10
+Terrier,None,False,Yellow / Tan / Blond / Fawn, ,Adult,Male,Medium,None,True,False,False,True,None,None,None,[],Sarge,adopted,01/08/2020 02:41,21/07/2020 15:02
+Shepherd,None,True,None, ,Young,Male,Large,None,True,False,False,True,True,True,True,[],Shinx,adopted,21/07/2020 17:26,21/07/2020 17:26
+Shih Tzu,None,False,White / Cream, ,Senior,Male,Small,Long,False,False,False,True,None,None,None,[],Travis,adoptable,21/07/2020 18:23,21/07/2020 18:23
+Mixed Breed,None,True,Apricot / Beige, ,Young,Male,Medium,Short,True,False,False,True,None,None,None,[],Max,adopted,25/07/2020 02:12,21/07/2020 17:20
+Boxer,None,True,None, ,Young,Male,Medium,None,True,True,False,True,True,True,None,[],Jabba,adopted,21/07/2020 12:23,21/07/2020 12:23
+Retriever,Spaniel,True,None, ,Adult,Male,Medium,None,False,False,False,False,None,None,None,[],Brownie,adopted,30/07/2020 16:57,21/07/2020 17:21
+Chihuahua,None,True,None, ,Adult,Male,Small,None,True,False,False,False,True,True,True,[],Forest &amp; Lt Dan (bonded pair),adopted,05/08/2020 22:24,21/07/2020 15:24
+American Bulldog,Mixed Breed,True,None, ,Young,Male,Large,None,False,False,False,False,None,None,None,[],Petey,adoptable,21/07/2020 13:06,21/07/2020 13:06
+Shepherd,Mixed Breed,True,Black, ,Adult,Female,Medium,None,True,False,False,True,None,None,None,"['Does NOT like cats', 'Friendly', 'Heartworm positive under treatment call shelter for more info', 'Likes canned dog food', 'Microchipped', 'Spayed', 'Walks Well On A Leash']",Jasmine,adoptable,21/07/2020 13:10,21/07/2020 13:10
+Chihuahua,None,True,White / Cream, ,Adult,Male,Small,Short,False,False,False,False,None,None,None,[],ACO Chihuahua,adopted,25/07/2020 18:25,21/07/2020 19:37
+German Shepherd Dog,None,True,None, ,Adult,Female,Large,Short,True,True,False,True,False,True,True,['lap dog'],Dutchess,adoptable,21/07/2020 15:15,21/07/2020 15:15
+American Staffordshire Terrier,Mastiff,True,Brindle, ,Baby,Female,Medium,Short,True,True,False,True,True,True,True,[],Gracie,adopted,12/08/2020 23:22,21/07/2020 19:18
+Mixed Breed,None,False,Black, ,Young,Female,Medium,None,True,False,False,True,None,None,None,[],Nori,adoptable,21/07/2020 15:35,21/07/2020 15:35
+Pit Bull Terrier,None,True,None, ,Adult,Female,Medium,None,True,True,False,True,True,True,None,[],Nala,adopted,21/07/2020 14:57,21/07/2020 14:57
+Boxer,None,True,None, ,Adult,Male,Large,None,True,False,False,True,None,None,None,[],British A171792,adopted,31/07/2020 20:41,21/07/2020 17:42
+Chihuahua,Shih Tzu,True,None, ,Baby,Female,Small,None,True,False,False,True,None,True,True,[],Piper,adopted,26/07/2020 00:15,21/07/2020 15:14
+Shepherd,Australian Cattle Dog / Blue Heeler,True,Tricolor (Brown, & White),Adult,Male,Medium,Short,True,True,False,True,True,True,True,[],Piccolo,adoptable,21/07/2020 20:16,21/07/2020 20:16
+Catahoula Leopard Dog,Labrador Retriever,True,Black, ,Young,Male,Medium,None,False,True,False,True,True,True,None,[],Thor,adopted,04/08/2020 16:55,21/07/2020 15:58
+Labrador Retriever,Beagle,True,None, ,Baby,Female,Medium,None,False,False,False,True,True,True,None,[],Maple (Tree Litter),adopted,30/07/2020 13:01,21/07/2020 14:39
+Terrier,None,True,None, ,Young,Male,Medium,None,False,False,False,False,None,None,None,[],Otis,adopted,21/07/2020 20:47,21/07/2020 20:47
+German Shepherd Dog,None,True,None, ,Baby,Male,Large,None,True,False,False,True,True,True,True,[],German Shep Mix M#1,adopted,22/07/2020 16:46,21/07/2020 15:16
+Schnauzer,None,False,Black, ,Adult,Male,Medium,Medium,False,False,False,False,None,None,None,[],HENRY,adopted,28/07/2020 19:02,21/07/2020 13:51
+Greyhound,None,False,Black, ,Adult,Female,Large,Short,True,True,False,True,None,True,None,[],Opal,adopted,12/08/2020 13:21,21/07/2020 15:05
+Hound,Coonhound,True,Black, ,Baby,Female,Medium,Short,True,False,False,True,True,True,None,[],Artimis,adopted,22/07/2020 23:12,21/07/2020 13:57
+Shepherd,Hound,True,None, ,Baby,Male,Large,Short,False,False,False,True,True,True,True,[],Jack,adopted,26/07/2020 15:55,21/07/2020 18:23
+Terrier,None,True,None, ,Young,Female,Small,None,True,False,False,True,True,True,None,[],Alexa,adopted,21/07/2020 15:57,21/07/2020 15:57
+Australian Cattle Dog / Blue Heeler,Shepherd,True,Black, ,Young,Female,Medium,Short,False,True,False,True,None,None,None,"['loving', 'sweet', 'active', 'cute', 'intelligent', 'adorable']",Roxy,adoptable,21/07/2020 14:50,21/07/2020 14:50
+Poodle,None,True,White / Cream, ,Young,Male,Large,Curly,True,True,False,True,False,True,True,[],Warner **READ ENTIRE DESCRIPTION**,adopted,29/07/2020 15:04,21/07/2020 18:09
+Jack Russell Terrier,None,True,None, ,Young,Female,Small,None,True,True,False,True,None,None,None,[],Ellie,adopted,21/07/2020 15:29,21/07/2020 15:29
+Black Mouth Cur,Mixed Breed,True,None, ,Young,Male,Large,None,False,False,False,False,None,None,None,[],Apollo,adoptable,21/07/2020 19:06,21/07/2020 19:06
+American Bulldog,Mixed Breed,True,None, ,Senior,Male,Large,None,False,False,False,False,None,None,None,[],Barack,adoptable,21/07/2020 16:38,21/07/2020 16:38
+Collie,None,False,Merle (Blue), ,Young,Female,Medium,None,False,False,False,False,True,True,None,['Playful'],Juno,adopted,25/07/2020 22:30,21/07/2020 20:27
+Cattle Dog,None,True,Black, ,Young,Male,Medium,Wire,True,False,False,True,True,True,None,[],Willie,adopted,22/07/2020 16:52,21/07/2020 20:54
+Australian Cattle Dog / Blue Heeler,None,False,Red / Chestnut / Orange, ,Adult,Female,Medium,Short,True,True,False,True,None,True,None,[],JANE,adopted,26/07/2020 23:52,21/07/2020 20:27
+Golden Retriever,Labrador Retriever,True,Golden, ,Young,Female,Medium,None,True,True,True,True,True,True,True,[],Amber PENDING,adopted,04/08/2020 19:05,21/07/2020 15:09
+Dachshund,Beagle,True,None, ,Adult,Male,Small,None,True,True,False,True,True,True,None,[],Bernie,adopted,21/07/2020 18:59,21/07/2020 18:59
+Terrier,Collie,True,None, ,Baby,Female,Medium,Short,False,False,False,False,None,None,None,[],Aspen~Adopted!!,adoptable,21/07/2020 15:43,21/07/2020 15:43
+Terrier,None,True,Black, ,Senior,Male,Small,None,True,False,False,True,None,True,None,[],Cubby,adoptable,21/07/2020 15:59,21/07/2020 15:59
+Retriever,None,True,Black, ,Baby,Male,Medium,Medium,True,False,False,True,True,True,True,[],Midnight,adopted,04/08/2020 17:53,21/07/2020 18:25
+Terrier,None,True,Apricot / Beige, ,Young,Female,Small,None,True,False,False,True,True,True,None,['Sweet and playful'],Lily,adopted,01/08/2020 06:12,21/07/2020 21:24
+Labrador Retriever,None,True,None, ,Young,Male,Medium,None,True,True,False,True,True,True,True,[],Seymour - ADOPTED,adopted,31/07/2020 15:16,21/07/2020 12:02
+Pit Bull Terrier,Mastiff,True,None, ,Young,Female,Medium,None,True,False,False,False,True,True,None,[],Tilly,adopted,21/07/2020 18:27,21/07/2020 18:27
+Dachshund,None,False,Tricolor (Brown, & White),Adult,Male,Small,None,True,True,False,True,True,True,None,[],Buddy,adoptable,14/08/2020 20:59,21/07/2020 15:33
+Chihuahua,None,True,None, ,Senior,Male,Small,None,False,False,False,True,None,None,None,[],Carmello,adopted,28/07/2020 15:22,21/07/2020 18:45
+Labrador Retriever,Weimaraner,True,Black, ,Young,Female,Medium,Short,True,True,False,True,True,True,None,[],Lucy,adopted,23/07/2020 18:21,21/07/2020 15:01
+Pit Bull Terrier,None,True,Apricot / Beige, ,Adult,Female,Large,Short,False,False,False,False,True,True,False,[],Sable,adopted,14/08/2020 19:29,21/07/2020 18:52
+Labrador Retriever,None,True,Black, ,Baby,Female,Medium,Medium,True,False,False,True,True,True,True,[],Joanne,adopted,24/07/2020 11:33,21/07/2020 18:19
+Pit Bull Terrier,None,False,None, ,Young,Male,Large,None,False,False,False,False,None,None,None,[],SHERIFF,adoptable,21/07/2020 17:51,21/07/2020 17:51
+Rat Terrier,Dachshund,True,Black, ,Adult,Female,Medium,Short,False,False,False,True,None,True,None,[],Dexie,adopted,27/07/2020 15:31,23/07/2020 19:24
+Shepherd,Mixed Breed,True,None, ,Adult,Female,Medium,None,True,True,False,False,None,None,False,[],Toffee,adoptable,21/07/2020 20:06,21/07/2020 20:06
+Husky,None,True,None, ,Adult,Male,Large,None,True,True,False,True,True,True,None,[],Zeus the Deuce,adopted,21/07/2020 11:20,21/07/2020 11:20
+Australian Shepherd,Cattle Dog,True,None, ,Baby,Female,Medium,None,True,False,False,True,True,True,True,[],Aussie/Cattle Dog Mix F#1,adopted,22/07/2020 16:46,21/07/2020 15:12
+Pit Bull Terrier,None,False,None, ,Adult,Male,Medium,None,False,False,False,True,None,None,None,[],Billy,adoptable,21/07/2020 18:22,21/07/2020 18:22
+Labrador Retriever,None,True,None, ,Young,Female,Medium,None,False,True,False,False,True,True,True,[],Aurora,adopted,21/07/2020 15:55,21/07/2020 15:55
+Chihuahua,Terrier,True,None, ,Baby,Female,Small,None,False,False,False,False,None,True,True,[],Sandy,adopted,22/07/2020 11:55,21/07/2020 15:38
+Pit Bull Terrier,None,False,None, ,Adult,Female,Large,None,True,True,True,True,None,False,False,[],Veda,adoptable,21/07/2020 10:26,21/07/2020 10:26
+Border Collie,None,True,None, ,Adult,Male,Medium,None,True,False,False,False,None,None,None,[],Howie courtesy listing,adoptable,21/07/2020 10:35,21/07/2020 10:35
+Labrador Retriever,German Shepherd Dog,True,None, ,Senior,Male,Medium,None,True,False,False,False,None,None,None,[],TYE,adoptable,21/07/2020 15:50,21/07/2020 15:50
+Terrier,Hound,True,Black, ,Baby,Male,Medium,Short,True,False,False,True,None,True,None,[],Mr Terkintine,adoptable,21/07/2020 19:31,21/07/2020 19:31
+Labrador Retriever,None,False,Brown / Chocolate, ,Baby,Female,Medium,Short,True,False,False,True,True,True,True,[],Anna in NH,adopted,24/07/2020 05:07,21/07/2020 15:12
+Terrier,None,False,None, ,Adult,Female,Medium,None,False,False,False,False,None,None,None,[],Hattie,adopted,30/07/2020 16:57,21/07/2020 17:21
+Shepherd,Labrador Retriever,True,Black, ,Baby,Male,Medium,Short,True,False,False,True,True,True,None,[],Perch,adopted,21/07/2020 21:46,21/07/2020 13:17
+Boxer,None,True,Yellow / Tan / Blond / Fawn, ,Young,Female,Medium,Short,True,False,False,True,None,None,None,[],Dina,adopted,30/07/2020 18:06,21/07/2020 18:16
+American Staffordshire Terrier,Mixed Breed,True,None, ,Young,Male,Large,None,True,False,False,False,None,None,None,[],VIRGIL,adoptable,21/07/2020 18:51,21/07/2020 18:51
+Terrier,Pug,True,Brindle, ,Baby,Male,Medium,Medium,True,True,False,True,None,True,None,[],Omar,adopted,16/08/2020 18:20,21/07/2020 20:41
+Shepherd,None,True,None, ,Baby,Female,Large,None,False,False,False,True,True,True,None,[],Dora,adopted,21/07/2020 11:05,21/07/2020 11:05
+Rat Terrier,None,True,Tricolor (Brown, & White),Adult,Female,Small,Short,True,True,False,True,True,True,True,[],Nova,adopted,27/07/2020 01:06,21/07/2020 15:34

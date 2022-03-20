@@ -23,6 +23,9 @@ Route::get('/', function () {
     return view('bienvenido');
 });
 
+Route::get('/import', [App\Http\Controllers\ImportController::class, 'import'])->name('import');
+
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
