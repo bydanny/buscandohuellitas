@@ -30,8 +30,8 @@
     <div class="page text-center">
       <!-- Page Header-->
       <header class="page-head">
-        <!-- RD Navbar-->
-        <div class="rd-navbar-wrap">
+        <!-- RD Navbar-->     
+      <div class="rd-navbar-wrap">
           <nav class="rd-navbar" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-sm-device-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fullwidth" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-static" data-sm-stick-up-offset="50px" data-lg-stick-up-offset="90px">
             <div class="rd-navbar-inner">
               <!-- RD Navbar Panel-->
@@ -62,11 +62,13 @@
                   </li>
                   <li><a href="links.html">Links</a></li>
                   <li><a href="contacts.html">Contacts</a></li>
+                  <li><a href="login.html">Login</a></li>
                 </ul>
               </div>
             </div>
           </nav>
         </div>
+
       </header>
       <!-- Page Content-->
       <main class="page-content">
