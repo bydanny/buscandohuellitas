@@ -16,5 +16,7 @@ class DatabaseSeeder extends Seeder
         // \App\Models\User::factory(10)->create();
         $this->call(PetsSeeder::class);
         $this->call(BreedlabelsSeeder::class);
+        $this->call(ColorslabelsSeeder::class);
+        $this->call(StateslabelsSeeder::class);
     }
 }
