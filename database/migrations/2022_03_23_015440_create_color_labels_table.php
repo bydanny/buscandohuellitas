@@ -15,7 +15,7 @@ class CreateColorLabelsTable extends Migration
     {
         Schema::create('color_labels', function (Blueprint $table) {
             $table->id();
-            $table->string('color_id');
+            $table->unsignedBigInteger('color_id')->nullable();
             $table->string('color_name');
             $table->timestamps();
         });

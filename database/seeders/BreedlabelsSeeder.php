@@ -20,9 +20,9 @@ class BreedlabelsSeeder extends Seeder
             while(($datos = fgetcsv($file,10000,",")) !== FALSE)
             {
               DB::table('breed_labels')->insert([
-                'breedid' => $datos[0],
+                'breed_id' => $datos[0],
                 'type' => $datos[1],
-                'breedname' => $datos[2],
+                'breed_name' => $datos[2],
               ]);
             }
             

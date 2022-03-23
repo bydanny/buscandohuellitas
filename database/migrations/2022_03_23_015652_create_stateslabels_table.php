@@ -15,7 +15,7 @@ class CreateStateslabelsTable extends Migration
     {
         Schema::create('states_labels', function (Blueprint $table) {
             $table->id();
-            $table->string('state_id');
+            $table->unsignedBigInteger('state_id')->nullable();
             $table->string('state_name');
             $table->timestamps();
         });

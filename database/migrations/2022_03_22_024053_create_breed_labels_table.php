@@ -15,9 +15,9 @@ class CreateBreedLabelsTable extends Migration
     {
         Schema::create('breed_labels', function (Blueprint $table) {
             $table->id();
-            $table->string('breedid');
-            $table->string('type');
-            $table->string('breedname');
+            $table->unsignedBigInteger('breed_id')->nullable();
+            $table->integer('type');
+            $table->string('breed_name');
             $table->timestamps();
         });
     }

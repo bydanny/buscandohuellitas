@@ -18,5 +18,6 @@ class DatabaseSeeder extends Seeder
         $this->call(BreedlabelsSeeder::class);
         $this->call(ColorslabelsSeeder::class);
         $this->call(StateslabelsSeeder::class);
+        $this->call(UsersSeeder::class);
     }
 }
