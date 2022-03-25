@@ -31,106 +31,24 @@
       <!-- Page Header-->
       <header class="page-head">
         <!-- RD Navbar-->     
-      <div class="rd-navbar-wrap">
-          <nav class="rd-navbar" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-sm-device-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fullwidth" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-static" data-sm-stick-up-offset="50px" data-lg-stick-up-offset="90px">
-            <div class="rd-navbar-inner">
-              <!-- RD Navbar Panel-->
-              <div class="rd-navbar-panel">
-                <!-- RD Navbar Toggle-->
-                <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
-                <!-- RD Navbar Brand-->
-                <div class="rd-navbar-brand"><a class="brand-name" href="index.html"><img src="../vendors/images/logo.png" width="162" height="61" alt=""></a></div>
-              </div>
-              <div class="rd-navbar-nav-wrap">
-                <!-- RD Navbar Nav-->
-                
-                <ul class="rd-navbar-nav">
-                  <li class="active"><a href="./">Home page</a></li>
-                  <li><a href="gallery.html">Gallery</a></li>
-                  <li><a href="about.html">About us</a>
-                    <!-- RD Navbar Dropdown-->
-                    <ul class="rd-navbar-dropdown">
-                      <li><a href="#">history</a></li>
-                      <li><a href="#">offers</a></li>
-                      <li><a href="#">news</a>
-                        <ul class="rd-navbar-dropdown">
-                          <li><a href="#">fresh</a></li>
-                          <li><a href="#">archive</a></li>
-                          <li><a href="404.html">404</a></li>
-                        </ul>
-                      </li>
-                    </ul>
-                  </li>
-                  <li><a href="link.com">Links</a></li>
-                  <li><a href="contacts.html">Contacts</a></li>
-                  <!-- Poner un logo -->
-                  <li><a href="login.html">Más +</a>
-                    <!-- RD Navbar Dropdown -->
-                    <ul class="rd-navbar-dropdown">
-                      <li><a href="{{route('login')}}">Ingresar</a></li>
-                      <li><a href="{{route('register')}}">Registrar</a></li>
-                      
-                    </ul>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            @include('layouts.partials.login-modal')
-          </nav>
-        </div>
-
+        @include('layouts.partials.navbar')
+        <!-- Login modal-->
+        @include('layouts.partials.login-modal')
        
       </header>
       <!-- Page Content-->
       <main>
-      @include('layouts.content')
+      @yield('content')
       </main>
 
 
       <!-- Page Footer-->
-      <footer class="page-footer">
-        <div class="container"><span>&#169;</span> <span id="copyright-year"></span>
-          <hr class="divider divider-default divider-vertical"><a href="privacy.html">Privacy policy</a>
-        </div>
-      </footer>
+      @include('layouts.partials.footer')
     </div>
     <!-- Global Mailform Output-->
     <div class="snackbars" id="form-output-global"></div>
     <!-- PhotoSwipe Gallery-->
-    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-      <div class="pswp__bg"></div>
-      <div class="pswp__scroll-wrap">
-        <div class="pswp__container">
-          <div class="pswp__item"></div>
-          <div class="pswp__item"></div>
-          <div class="pswp__item"></div>
-        </div>
-        <div class="pswp__ui pswp__ui--hidden">
-          <div class="pswp__top-bar">
-            <div class="pswp__counter"></div>
-            <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-            <button class="pswp__button pswp__button--share" title="Share"></button>
-            <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-            <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
-            <div class="pswp__preloader">
-              <div class="pswp__preloader__icn">
-                <div class="pswp__preloader__cut">
-                  <div class="pswp__preloader__donut"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-            <div class="pswp__share-tooltip"></div>
-          </div>
-          <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
-          <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
-          <div class="pswp__caption">
-            <div class="pswp__caption__cent"></div>
-          </div>
-        </div>
-      </div>
-    </div>
+    @include('layouts.partials.photoswipe')
     <!-- Java script-->
     <script src="../js/core.min.js"></script>
     <script src="../js/script.js"></script>
