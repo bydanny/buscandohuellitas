@@ -35,7 +35,7 @@
                   <li><a href="login.html">Más +</a>
                     <!-- RD Navbar Dropdown -->
                     <ul class="rd-navbar-dropdown">
-                      <li><a href="{{route('login')}}">Ingresar</a></li>
+                        <li class="list-inline-item"><a href="#" data-toggle="modal" data-target="#login-modal">Ingresar</a></li>
                       <li><a href="{{route('register')}}">Registrar</a></li>
                       
                     </ul>

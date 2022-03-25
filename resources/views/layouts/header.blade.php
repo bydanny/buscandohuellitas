@@ -26,16 +26,21 @@
         <p>Loading...</p>
       </div>
     </div>
-    <!-- Page-->
-    <div class="page text-center">
+   
+       
+ 
       <!-- Page Header-->
       <header class="page-head">
-        <!-- RD Navbar-->     
+
+       <!-- RD Navbar-->     
         @include('layouts.partials.navbar')
         <!-- Login modal-->
         @include('layouts.partials.login-modal')
+         <!-- Page-->
        
       </header>
+      <div class="page text-center">
+
       <!-- Page Content-->
       <main>
       @yield('content')

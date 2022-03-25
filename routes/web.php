@@ -24,7 +24,7 @@ Route::get('/', function () {
 });
 
 Route::get('/import', [App\Http\Controllers\ImportController::class, 'import'])->name('import');
-
+Route::get('login', 'Auth\LoginController@showLoginForm')->name('login');
 
 Auth::routes();
 
