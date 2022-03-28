@@ -30,15 +30,15 @@
                     </ul>
                   </li>
                   <li><a href="link.com">Links</a></li>
-                  <li><a href="{{route('login')}}">Ingresar</a></li>
+                  
                      
                   <!-- Poner un logo -->
                   <li><a href="login.html">Más +</a>
                     <!-- RD Navbar Dropdown -->
                     <ul class="rd-navbar-dropdown">
-                      <li><a href="{{route('login')}}" data-toggle="modal" data-target="#login-modal">Ingresar</a></li>
+                      <!-- <li><a href="{{route('login')}}" data-toggle="modal" data-target="#login-modal">Ingresar</a></li>-->
+                      <li><a href="{{route('login')}}">Ingresar</a></li>
                       <li><a href="{{route('register')}}">Registrar</a></li>
-                      
                     </ul>
                   </li>
                 </ul>
