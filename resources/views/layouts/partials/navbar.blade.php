@@ -12,11 +12,40 @@
               <div class="rd-navbar-nav-wrap">
                 <!-- RD Navbar Nav-->
                 
+                @guest
                 <ul class="rd-navbar-nav">
                   <li class="active"><a href="./">Home page</a></li>
-                  <li><a href="gallery.html">Gallery</a></li>
                   <li><a href="about.html">About us</a>
-                    <!-- RD Navbar Dropdown-->
+                    <!-- RD Navbar Dropdown
+                    <ul class="rd-navbar-dropdown">
+                      <li><a href="#">history</a></li>
+                      <li><a href="#">offers</a></li>
+                      <li><a href="#">news</a>
+                        <ul class="rd-navbar-dropdown">
+                          <li><a href="#">fresh</a></li>
+                          <li><a href="#">archive</a></li>
+                          <li><a href="404.html">404</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                    -->
+                  </li>
+                      <!-- Poner un logo -->
+                    <li><a href="login.html">Más +</a>
+                      <!-- RD Navbar Dropdown -->
+                    <ul class="rd-navbar-dropdown">
+                      <!-- <li><a href="{{route('login')}}" data-toggle="modal" data-target="#login-modal">Ingresar</a></li>-->
+                      <li><a href="{{route('login')}}">Ingresar</a></li>
+                      <li><a href="{{route('register')}}">Registrar</a></li>
+                    </ul>
+
+                @else
+                <ul class="rd-navbar-nav">
+                  <li class="active"><a href="/home">Home page</a></li>
+                  <li><a href="#">Perros</a>
+                  <li><a href="#">Gatos</a>
+                  <li><a href="about.html">About us</a>
+                  <!-- RD Navbar Dropdown-->
                     <ul class="rd-navbar-dropdown">
                       <li><a href="#">history</a></li>
                       <li><a href="#">offers</a></li>
@@ -29,19 +58,24 @@
                       </li>
                     </ul>
                   </li>
-                  <li><a href="link.com">Links</a></li>
-                  
-                     
-                  <!-- Poner un logo -->
-                  <li><a href="login.html">Más +</a>
-                    <!-- RD Navbar Dropdown -->
+                      <!-- Poner un logo -->
+                  <li><a>{{ Auth::user()->name }}</a>
+                      <!-- RD Navbar Dropdown -->
                     <ul class="rd-navbar-dropdown">
-                      <!-- <li><a href="{{route('login')}}" data-toggle="modal" data-target="#login-modal">Ingresar</a></li>-->
-                      <li><a href="{{route('login')}}">Ingresar</a></li>
-                      <li><a href="{{route('register')}}">Registrar</a></li>
+                      <li><a href="{{route('user.cuenta')}}">Mi cuenta</a></li>
+                      <li><a href="{{route('logout')}}"
+                      onclick="event.preventDefault();
+                      document.getElementById('logout-form').submit();
+                      {{ __('Logout') }}">Salir</a></li>
+                      <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                        @csrf
+                      </form>
                     </ul>
                   </li>
                 </ul>
+                @endguest
+
+
               </div>
             </div>
           </nav>

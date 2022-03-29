@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class PetsController extends Controller
+class UserController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -82,4 +82,8 @@ class PetsController extends Controller
         //
     }
 
+    public function cuenta()
+    {
+        return view ('auth.micuenta');
+    }
 }

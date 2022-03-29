@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Pet;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -31,4 +31,7 @@ Auth::routes();
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
 Route::get('/hm', [App\Http\Controllers\HomeController::class, 'home'])->name('home');
+
+Route::get('user/micuenta', [App\Http\Controllers\UserController::class, 'cuenta'])->name('user.cuenta');
+
 
