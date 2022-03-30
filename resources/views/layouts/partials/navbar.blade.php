@@ -42,8 +42,7 @@
                 @else
                 <ul class="rd-navbar-nav">
                   <li class="active"><a href="/home">Home page</a></li>
-                  <li><a href="#">Perros</a>
-                  <li><a href="#">Gatos</a>
+                  <li><a href="{{route('pet.index')}}">Mascotas</a>
                   <li><a href="about.html">About us</a>
                   <!-- RD Navbar Dropdown-->
                     <ul class="rd-navbar-dropdown">

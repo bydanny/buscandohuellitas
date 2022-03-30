@@ -34,4 +34,6 @@ Route::get('/hm', [App\Http\Controllers\HomeController::class, 'home'])->name('h
 
 Route::get('user/micuenta', [App\Http\Controllers\UserController::class, 'cuenta'])->name('user.cuenta');
 
+// Rutas Mascotas (Pets)
+Route::get('pet/index', [App\Http\Controllers\PetController::class, 'index'])->name('pet.index');
 
