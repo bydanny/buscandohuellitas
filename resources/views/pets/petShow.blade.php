@@ -40,7 +40,7 @@
 			      <div class="col-md-4 home-grid">
 					<div class="home-product-main">
 					   <div class="home-product-top">
-					      <a href="single.html"><img alt="200" src="../vendors/test_images/0a3d2b273-2.jpg" alt="" class="img-responsive zoom-img"></a>
+					      <a href="single.html"><img width="400" height="268" src="../vendors/test_images/0a3d2b273-2.jpg" alt="" class="img-responsive zoom-img"></a>
 					   </div>
 						<div class="home-product-bottom">
 								<h3><a href="single.html">Mascota 2</a></h3>
@@ -54,7 +54,7 @@
 			     <div class="col-md-4 home-grid">
 					<div class="home-product-main">
 					   <div class="home-product-top">
-					      <a href="single.html"><img src="../vendors/test_images/0a3d2b273-3.jpg" alt="" class="img-responsive zoom-img"></a>
+					      <a href="single.html"><img width="240" height="168" src="../vendors/test_images/0a3d2b273-3.jpg" alt=""></a>
 					   </div>
 						<div class="home-product-bottom">
 								<h3><a href="single.html">Mascota 3</a></h3>
@@ -68,7 +68,7 @@
 			      <div class="col-md-4 home-grid">
 					<div class="home-product-main">
 					   <div class="home-product-top">
-					      <a href="single.html"><img src="../vendors/images/index-05.jpg" alt="" class="img-responsive zoom-img"></a>
+					      <a href="single.html"><img mg width="240" height="160" src="../vendors/test_images/0a3d2b273-4.jpg" alt="" ></a>
 					   </div>
 						<div class="home-product-bottom">
 								<h3><a href="single.html">Mascota 4</a></h3>
