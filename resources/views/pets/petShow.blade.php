@@ -26,11 +26,7 @@
 			      <div class="col-md-4 home-grid">
 					<div class="home-product-main">
 					   <div class="home-product-top">
-					      <a href="single.html">
-							  <div class="img-container">
-							  	<img src="../vendors/test_images/0a3d2b273-1.jpg" alt="">
-							  </div>
-							</a>
+					      <a href="single.html"><img src="../vendors/test_images/0a3d2b273-1.jpg" alt="" class="img-responsive zoom-img"></a>
 					   </div>
 						<div class="home-product-bottom">
 								<h3><a href="single.html">Mascota 1</a></h3>
@@ -44,11 +40,7 @@
 			      <div class="col-md-4 home-grid">
 					<div class="home-product-main">
 					   <div class="home-product-top">
-					      <a href="single.html">
-							  <div class="img-container">
-							  	<img alt="200" src="../vendors/test_images/0a3d2b273-2.jpg" alt="">
-							  </div>
-							</a>
+					      <a href="single.html"><img alt="200" src="../vendors/test_images/0a3d2b273-2.jpg" alt="" class="img-responsive zoom-img"></a>
 					   </div>
 						<div class="home-product-bottom">
 								<h3><a href="single.html">Mascota 2</a></h3>
@@ -62,11 +54,7 @@
 			     <div class="col-md-4 home-grid">
 					<div class="home-product-main">
 					   <div class="home-product-top">
-					      <a href="single.html">
-							  <div class="img-container">
-							  <img src="../vendors/test_images/0a3d2b273-3.jpg" alt="">
-							  </div>
-							</a>
+					      <a href="single.html"><img src="../vendors/test_images/0a3d2b273-3.jpg" alt="" class="img-responsive zoom-img"></a>
 					   </div>
 						<div class="home-product-bottom">
 								<h3><a href="single.html">Mascota 3</a></h3>
@@ -80,11 +68,7 @@
 			      <div class="col-md-4 home-grid">
 					<div class="home-product-main">
 					   <div class="home-product-top">
-					      <a href="single.html">
-							  <div class="img-container">
-							  	<img src="../vendors/images/index-05.jpg" alt="">
-							  </div>
-							</a>
+					      <a href="single.html"><img src="../vendors/images/index-05.jpg" alt="" class="img-responsive zoom-img"></a>
 					   </div>
 						<div class="home-product-bottom">
 								<h3><a href="single.html">Mascota 4</a></h3>
@@ -98,11 +82,7 @@
 			      <div class="col-md-4 home-grid">
 					<div class="home-product-main">
 					   <div class="home-product-top">
-					      <a href="single.html">
-							  <div class="img-container">
-							  	<img src="../vendors/images/index-06.jpg" alt="">
-							  </div>
-							</a>
+					      <a href="single.html"><img src="../vendors/images/index-06.jpg" alt="" class="img-responsive zoom-img"></a>
 					   </div>
 						<div class="home-product-bottom">
 								<h3><a href="single.html">Mascota 5</a></h3>
@@ -116,11 +96,7 @@
 			      <div class="col-md-4 home-grid">
 					<div class="home-product-main">
 					   <div class="home-product-top">
-					      <a href="single.html">
-							<div class="img-container">
-							  <img src="../vendors/images/index-07.jpg" alt="">
-							</div>
-							</a>
+					      <a href="single.html"><img src="../vendors/images/index-07.jpg" alt="" class="img-responsive zoom-img"></a>
 					   </div>
 						<div class="home-product-bottom">
 								<h3><a href="single.html">Mascota 6</a></h3>
@@ -134,11 +110,7 @@
 			      <div class="col-md-4 home-grid">
 					<div class="home-product-main">
 					   <div class="home-product-top">
-					      <a href="single.html">
-							  <div class="img-container">
-							  	<img src="../vendors/images/index-05.jpg" alt="">
-							  </div>
-							</a>
+					      <a href="single.html"><img src="../vendors/images/index-05.jpg" alt="" class="img-responsive zoom-img"></a>
 					   </div>
 						<div class="home-product-bottom">
 								<h3><a href="single.html">Mascota 7</a></h3>
@@ -152,11 +124,7 @@
 			      <div class="col-md-4 home-grid">
 					<div class="home-product-main">
 					   <div class="home-product-top">
-					      <a href="single.html">
-							  <div class="img-container">
-							  	<img src="../vendors/images/index-06.jpg" alt="">
-							  </div>
-							</a>
+					      <a href="single.html"><img src="../vendors/images/index-06.jpg" alt="" class="img-responsive zoom-img"></a>
 					   </div>
 						<div class="home-product-bottom">
 								<h3><a href="single.html">Mascota 8</a></h3>
@@ -170,11 +138,7 @@
 			      <div class="col-md-4 home-grid">
 					<div class="home-product-main">
 					   <div class="home-product-top">
-					      <a href="single.html">
-							  <div class="img-container">
-							  	<img src="../vendors/images/index-07.jpg" alt="">
-						      </div>
-						  </a>
+					      <a href="single.html"><img src="../vendors/images/index-07.jpg" alt="" class="img-responsive zoom-img"></a>
 					   </div>
 						<div class="home-product-bottom">
 								<h3><a href="single.html">Mascota 9</a></h3>
