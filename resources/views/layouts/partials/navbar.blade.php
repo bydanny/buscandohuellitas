@@ -11,7 +11,7 @@
               </div>
               <div class="rd-navbar-nav-wrap">
                 <!-- RD Navbar Nav-->
-                
+
                 @guest
                 <ul class="rd-navbar-nav">
                   <li class="active"><a href="./">Home page</a></li>
@@ -43,6 +43,7 @@
                 <ul class="rd-navbar-nav">
                   <li class="active"><a href="/home">Home page</a></li>
                   <li><a href="{{route('pet.index')}}">Mascotas</a>
+                  <li><a href="{{route('pet.index')}}">Subir Mascota</a>
                   <li><a href="about.html">About us</a>
                   <!-- RD Navbar Dropdown-->
                     <ul class="rd-navbar-dropdown">

@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use Facade\FlareClient\View;
 use Illuminate\Http\Request;
 
 class PetController extends Controller
@@ -14,6 +15,7 @@ class PetController extends Controller
     public function index()
     {
         return view ('pets.petShow');
+        //return view ('pets.newPet');
     }
 
     /**
